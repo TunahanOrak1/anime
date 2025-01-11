@@ -9,6 +9,8 @@ https://cdn.dzen.ru/vod/converted-video/vod-content/90/98/67/00/01/38/74/39/12/7
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://storage.oyungezer.com.tr/ogz-public/public/content/2024/03/04/content_65e5b730c330a_80540.jpg" background="blue", SHOUGUN 1S 1B  
 https://storage.diziyou.co/episodes/88001_tr/720p.m3u8  
 
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 1S 1B  
+https://storage.diziyou.co/episodes/10001_tr/720p.m3u8 
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 33S 1B
 https://cdn.dzen.ru/vod/converted-video/vod-content/50/42/88/25/64/95/94/38/04/5/a124d234-6e07-481a-9ccc-6fdf5548e592/kaltura/desc_7ac9c94ec7c650fa2d5052c4b0b1d814/vycwgcwCR2Sw/vw=1280,vh=720,fps=24.00,vbrt=914670,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
@@ -57,6 +59,9 @@ https://cdn.dzen.ru/vod/converted-video/vod-content/80/78/77/20/57/00/90/02/68/b
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.pinimg.com/736x/79/82/45/798245f99954cd0920d3cc562f6a6509.jpg" background="blue", İYİ ŞANSLAR CHARLİE 1S 1B
 https://cdn.dzen.ru/vod/converted-video/vod-content/46/60/95/04/66/54/06/03/27/6/aa189d91-e22c-4c97-8a8e-20a89b3be13d/kaltura/desc_a0b9ff6e17373d8aa0dc02341e163bb9/vXMOsl_C7G3g/vw=1280,vh=720,fps=24.00,vbrt=1447919,abrt=129388,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
 
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/02/cyclops-on-x-men-97.jpg" background="blue", X-MEN 97 1S 1B  
+https://storage.diziyou.co/episodes/91701_tr/720p.m3u8 
+
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://image.milimaj.com/i/milliyet/75/869x477/5c8cae9045d2a05010cf5ef5.jpg" background="blue", ULTİMATE SPİDERMAN 1S 1B
 https://cdn.dzen.ru/vod/converted-video/vod-content/25/34/53/97/88/99/77/17/67/1/45522d6a-80fc-429d-b75e-e8845186b111/kaltura/desc_3aa735f1f770f70b004980444b15bbbe/vY1TXweZQ42k/vw=1280,vh=720,fps=24.00,vbrt=768165,abrt=129507,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
 
@@ -76,6 +81,146 @@ https://vod02.cdn.web.tv/lf/do/lfdoahfiiqo_,240,360,480,.mp4.urlset/playlist-f3-
 
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 1B 
 https://lh3.googleusercontent.com/X1LeTjYw_gU2ZPU1JPlmEVO1-_v4yxxQRDAZv161QR5MkEnWQezt8hUQGY2mtH70YyQzJFVkuLI4qKLnOotd9q2tDFCJVGOpJ2CLX7yUqTIiqBv84YlhgSUh4dd1Lv9mEjl1N2xigQ=m18
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.cnn.com/api/v1/images/stellar/prod/210308132932-03-wandavision.jpg?q=w_2000,c_fill" background="blue", WANDAVİSİON 1S 2B
+https://cdn.dzen.ru/vod/converted-video/vod-content/40/14/70/50/23/59/54/37/06/2/6114b19a-1e3d-408a-8e26-ebce4982d2c7/kaltura/desc_00c5b9c1aafe8d8098f9dc032d5ea25d/vq9UK-ENyIkI/vw=1280,vh=720,fps=24.00,vbrt=806164,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.cnn.com/api/v1/images/stellar/prod/210308132932-03-wandavision.jpg?q=w_2000,c_fill" background="blue", WANDAVİSİON 1S 3B
+https://cdn.dzen.ru/vod/converted-video/vod-content/60/28/95/92/94/96/24/79/55a96e2c-9957-4937-9640-87e4c634a904/kaltura/desc_47b68b253f55639c1c067054bd59c47f/vAC6cU5vw8gw/vw=1280,vh=720,fps=24.00,vbrt=862236,abrt=129384,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.cnn.com/api/v1/images/stellar/prod/210308132932-03-wandavision.jpg?q=w_2000,c_fill" background="blue", WANDAVİSİON 1S 4B
+https://cdn.dzen.ru/vod/converted-video/vod-content/76/94/18/53/57/84/63/40/76/1/9212174f-0ae8-4a38-aa13-33535bf0f67f/kaltura/desc_d3b06b325e9218fac2d2ec6786c81b4b/vzSqZdxozmBA/vw=1280,vh=720,fps=24.00,vbrt=750150,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.cnn.com/api/v1/images/stellar/prod/210308132932-03-wandavision.jpg?q=w_2000,c_fill" background="blue", WANDAVİSİON 1S 5B
+https://cdn.dzen.ru/vod/converted-video/vod-content/85/12/05/54/27/23/07/10/76/9/cb50d7b4-1459-4c07-924d-e34f9231154a/kaltura/desc_d9e0bddad2f793d13d8999e7f26dee2f/vd5A-dMyNQAM/vw=1280,vh=720,fps=24.00,vbrt=861382,abrt=129382,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.cnn.com/api/v1/images/stellar/prod/210308132932-03-wandavision.jpg?q=w_2000,c_fill" background="blue", WANDAVİSİON 1S 6B
+https://cdn.dzen.ru/vod/converted-video/vod-content/34/21/85/44/41/88/54/70/46/0/e5a81a70-1447-483f-b55b-4d039f180221/kaltura/desc_d05605dfb9b1d347b78cd037ee3279a7/voRxJLMS1Tjo/vw=1280,vh=720,fps=24.00,vbrt=884540,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.cnn.com/api/v1/images/stellar/prod/210308132932-03-wandavision.jpg?q=w_2000,c_fill" background="blue", WANDAVİSİON 1S 7B
+https://cdn.dzen.ru/vod/converted-video/vod-content/37/00/30/14/28/27/18/95/83/2/5f0a97d1-87ca-4f8f-a22d-e415d5d61630/kaltura/desc_6845babc513e8f67630e5d2c87f95add/v3WwA3IlhzgE/vw=1280,vh=720,fps=24.00,vbrt=1078124,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.cnn.com/api/v1/images/stellar/prod/210308132932-03-wandavision.jpg?q=w_2000,c_fill" background="blue", WANDAVİSİON 1S 8B
+https://cdn.dzen.ru/vod/converted-video/vod-content/50/63/45/59/36/30/56/54/78/7/6fe776f6-4639-4ee6-b957-b1ee98015201/kaltura/desc_f666397fc03dfec78be3640a6271fe9b/vRejLObNO_Fk/vw=1280,vh=720,fps=24.00,vbrt=629271,abrt=129382,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.cnn.com/api/v1/images/stellar/prod/210308132932-03-wandavision.jpg?q=w_2000,c_fill" background="blue", WANDAVİSİON 1S 9B
+https://cdn.dzen.ru/vod/converted-video/vod-content/37/03/85/69/03/29/15/58/42/6/39eb879a-6e32-4c7a-8f39-3406b1d0851b/kaltura/desc_da2715e0a783d946adf71a4126b5fe51/vqTd_R6KoP1o/vw=1280,vh=720,fps=24.00,vbrt=814847,abrt=129382,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
+
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://images.thedirect.com/media/article_full/hawkeyes.jpg" background="blue", HAWKEYE 1S 2B
+https://cdn.dzen.ru/vod/converted-video/vod-content/81/75/76/97/50/74/14/23/63/7/efc70ae5-1762-4017-ad97-26e94a7cfc78/kaltura/desc_61057b4729fcb017d7317bf09a68c428/v-FERmeiMjz4/vw=1280,vh=536,fps=24.00,vbrt=726081,abrt=129384,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://images.thedirect.com/media/article_full/hawkeyes.jpg" background="blue", HAWKEYE 1S 3B
+https://cdn.dzen.ru/vod/converted-video/vod-content/70/75/07/79/28/99/54/97/67/7/9f887c73-5d71-4e50-a3f8-0923413d6c00/kaltura/desc_b71dcc83f430a9f22be9a05a5c96cf19/v3LTGT20ODi8/vw=1280,vh=536,fps=24.00,vbrt=887851,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://images.thedirect.com/media/article_full/hawkeyes.jpg" background="blue", HAWKEYE 1S 4B
+https://cdn.dzen.ru/vod/converted-video/vod-content/48/19/18/93/28/06/67/09/15/9/acf48343-11aa-405e-85c1-a7425984756b/kaltura/desc_be6a584b5683704e555604cd9d5bcb23/vgDCHkacEOGU/vw=1280,vh=536,fps=24.00,vbrt=555661,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://images.thedirect.com/media/article_full/hawkeyes.jpg" background="blue", HAWKEYE 1S 5B
+https://cdn.dzen.ru/vod/converted-video/vod-content/21/18/61/86/28/32/54/30/20/9/e351b240-4527-457a-b812-1d4f38209473/kaltura/desc_d4708786a3d25bd15f5133de07d86c6c/vHYPGS9LfQm4/vw=1280,vh=536,fps=24.00,vbrt=502618,abrt=129382,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://images.thedirect.com/media/article_full/hawkeyes.jpg" background="blue", HAWKEYE 1S 6B
+https://cdn.dzen.ru/vod/converted-video/vod-content/77/72/18/95/15/35/65/84/77/0/b2c23f6d-728e-40bf-8912-765656e824ac/kaltura/desc_31ea47c8641fcbe8e7aef6eb6700a954/v3VdQ4Ce1mWE/vw=1280,vh=536,fps=24.00,vbrt=826177,abrt=129381,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.kayiprihtim.com/wp-content/uploads/2022/07/I-Am-Groot-fragman.jpg" background="blue", İ AM GROOT 1S 2B
+https://cdn.dzen.ru/vod/converted-video/vod-content/53/26/05/32/12/86/37/67/89/9/2c3e5fc2-eae8-4f7a-8e53-d71170f1f023/kaltura/desc_a21c84eed9fa7fb47cbe16cdd228ceaf/vEMUMepQDOyk/vw=1280,vh=720,fps=24.00,vbrt=962710,abrt=131569,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.kayiprihtim.com/wp-content/uploads/2022/07/I-Am-Groot-fragman.jpg" background="blue", İ AM GROOT 1S 3B
+https://cdn.dzen.ru/vod/converted-video/vod-content/67/02/50/68/66/02/27/34/27/7/f2e224a9-59e7-4478-a723-d1619157a029/kaltura/desc_8822fe0145280c617114b9e8d699dd66/vONqZX1ypWzU/vw=1280,vh=720,fps=24.00,vbrt=858393,abrt=131568,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.kayiprihtim.com/wp-content/uploads/2022/07/I-Am-Groot-fragman.jpg" background="blue", İ AM GROOT 1S 4B
+https://cdn.dzen.ru/vod/converted-video/vod-content/51/29/05/50/45/02/64/67/19/9/97ce0c0b-9d7d-418a-aea2-d02c154bed6c/kaltura/desc_6009168eadc68a15eb5f75f78a8a94d1/vzAVwZuYuglc/vw=1280,vh=720,fps=24.00,vbrt=1117634,abrt=131574,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.kayiprihtim.com/wp-content/uploads/2022/07/I-Am-Groot-fragman.jpg" background="blue", İ AM GROOT 1S 5B
+https://cdn.dzen.ru/vod/converted-video/vod-content/19/25/79/30/88/60/60/05/51/0/01d6c0b2-c48b-480d-8ce5-b64e70c43518/kaltura/desc_51845517d18c850d7fbbc17d0a1f1590/vWXLJTwKu-nU/vw=1280,vh=720,fps=24.00,vbrt=1165859,abrt=131573,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.kayiprihtim.com/wp-content/uploads/2022/07/I-Am-Groot-fragman.jpg" background="blue", İ AM GROOT 2S 1B
+https://cdn.dzen.ru/vod/converted-video/vod-content/56/60/07/30/17/84/96/95/92/2/246248d0-2682-49cd-852e-727e0abe746b/kaltura/desc_adcb6b09a29b27cc2babec932e2bec94/vKS_DYH-XgSU/vw=1280,vh=720,fps=24.00,vbrt=841294,abrt=131542,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.kayiprihtim.com/wp-content/uploads/2022/07/I-Am-Groot-fragman.jpg" background="blue", İ AM GROOT 2S 2B
+https://cdn.dzen.ru/vod/converted-video/vod-content/71/58/34/88/57/18/37/03/97/9/171802a9-493e-4a7d-9263-974b87ed0715/kaltura/desc_833f38965c4a46cd8b00f361bb8de011/vg9VxUxY0DWA/vw=1280,vh=720,fps=24.00,vbrt=827769,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.kayiprihtim.com/wp-content/uploads/2022/07/I-Am-Groot-fragman.jpg" background="blue", İ AM GROOT 2S 3B
+https://cdn.dzen.ru/vod/converted-video/vod-content/20/97/10/84/53/53/32/38/88/4/0d576947-6127-4514-b8d3-c86b1bfc1649/kaltura/desc_ed7df60d47d4b4635f0f85316f8831e0/vOp6cdJU-jBw/vw=1280,vh=720,fps=24.00,vbrt=780999,abrt=131542,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.kayiprihtim.com/wp-content/uploads/2022/07/I-Am-Groot-fragman.jpg" background="blue", İ AM GROOT 2S 4B
+https://cdn.dzen.ru/vod/converted-video/vod-content/46/00/87/71/24/07/41/99/47/0/f754c9ce-93e4-4edb-86e6-863763b78703/kaltura/desc_d04c58a8c44c211ab15be8a286e6a85b/vnzeMoXwvN2w/vw=1280,vh=720,fps=24.00,vbrt=1022878,abrt=131544,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.kayiprihtim.com/wp-content/uploads/2022/07/I-Am-Groot-fragman.jpg" background="blue", İ AM GROOT 2S 5B
+https://cdn.dzen.ru/vod/converted-video/vod-content/70/15/83/28/45/80/56/92/52/1/d363965a-16c9-4957-a80d-b63584881df0/kaltura/desc_076e61f25a69ddbc66b9fab9ad1d9e8d/v97OO1ALXIUQ/vw=1280,vh=720,fps=24.00,vbrt=882666,abrt=131541,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 1B
+https://cdn.dzen.ru/vod/converted-video/vod-content/63/68/65/20/79/29/22/60/44/1/ab5edaa2-d2fb-455b-bc48-e86ad946cef8/kaltura/desc_ee960928584e876ca8ccc208b42fa4e7/vcISzLmFhczs/vw=1280,vh=720,fps=24.00,vbrt=1000773,abrt=131524,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 2B
+https://cdn.dzen.ru/vod/converted-video/vod-content/54/62/99/73/04/39/79/36/19/7/c9008723-917a-4c2e-b622-4d5ef1403bc9/kaltura/desc_d22b9715dc475c169e430a36705aa39a/vZ3p3L7ifq3s/vw=1280,vh=720,fps=24.00,vbrt=994405,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 3B
+https://cdn.dzen.ru/vod/converted-video/vod-content/57/40/89/02/83/11/47/34/90/5/222b1e31-2eac-4d81-8db7-0c83852a6b62/kaltura/desc_e1154bab722164cdf81f796f5c5f2910/v-zStImh_Xm0/vw=1280,vh=720,fps=24.00,vbrt=943360,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 4B
+https://cdn.dzen.ru/vod/converted-video/vod-content/64/05/27/32/35/86/53/58/77/9/8e17c42e-1994-44de-b641-27b18130d30d/kaltura/desc_21ce08eff858836e2a77f866c877ccbe/va5VMX1VHQTo/vw=1280,vh=720,fps=24.00,vbrt=891098,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 5B
+https://cdn.dzen.ru/vod/converted-video/vod-content/52/42/69/71/70/77/25/32/52/9/c00c4999-fcf3-4aad-8e41-8313996dcdac/kaltura/desc_72f558beda33bbbca7b0c8301c72694f/vTkGTf5Vbkk8/vw=1280,vh=720,fps=24.00,vbrt=1059681,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 6B
+https://cdn.dzen.ru/vod/converted-video/vod-content/92/10/95/66/66/65/31/92/99/7464459b-9c76-46e7-9a80-81f709eeae41/kaltura/desc_a9ac0a79b958b3d9d4116ca4ebd3bd1c/vdSqXLEFKghc/vw=1280,vh=720,fps=24.00,vbrt=1011271,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 7B
+https://cdn.dzen.ru/vod/converted-video/vod-content/75/99/80/15/88/80/08/44/69/0/d8260964-ebda-42f8-8384-276cc1ec510c/kaltura/desc_6eb792a5e39e1910b76c8514c9fbce77/vCCUkMwBd3xA/vw=1280,vh=720,fps=24.00,vbrt=871240,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 8B
+https://cdn.dzen.ru/vod/converted-video/vod-content/28/54/12/71/12/03/92/64/45/1/015711b6-bc50-4bb6-97b9-1bfdc34e1ecb/kaltura/desc_10e01e3a0022c61ef5198f1742b94c2d/v3QaRUwSKZgI/vw=1280,vh=720,fps=24.00,vbrt=978200,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 9B
+https://cdn.dzen.ru/vod/converted-video/vod-content/72/92/18/08/08/08/30/81/96/0/4a821e54-c240-484b-871f-54a3cc78756c/kaltura/desc_984b1105e51a974e81ff2b330cf7a1ed/v3IkCfLIwrUY/vw=1280,vh=720,fps=24.00,vbrt=811897,abrt=131523,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 10B
+https://cdn.dzen.ru/vod/converted-video/vod-content/51/00/37/36/57/23/88/15/41/6/f377be99-9e02-4b20-b215-e7436bc94e6a/kaltura/desc_a606980e3ee1f66f905f5a129efcbc42/vc7VZJ_Hhg0o/vw=1280,vh=720,fps=24.00,vbrt=884281,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 11B
+https://cdn.dzen.ru/vod/converted-video/vod-content/82/77/61/83/79/58/36/07/07/2/a0322963-2e9f-4f61-8ece-5b40226ddc8e/kaltura/desc_84fa7bbd1cff2ddce6ac57d4b3a97823/vu_9unPUoDTI/vw=1280,vh=720,fps=24.00,vbrt=875188,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 12B
+https://cdn.dzen.ru/vod/converted-video/vod-content/75/53/99/44/86/75/03/90/65/5/6c030f63-2ece-46a0-9272-3f76eacc1f99/kaltura/desc_4486b4152ce05f839fd2cc97d16336e1/vL8i5w21-dWA/vw=1280,vh=720,fps=24.00,vbrt=886494,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 13B
+https://cdn.dzen.ru/vod/converted-video/vod-content/85/00/86/95/74/76/31/61/07/0/9e4122a0-d3a0-4da2-81dc-2a20db211d14/kaltura/desc_93e2dbb8a2ed5904017ecb27d369d507/vYpwL_ct_kVQ/vw=1280,vh=720,fps=24.00,vbrt=871014,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 14B
+https://cdn.dzen.ru/vod/converted-video/vod-content/29/34/12/41/74/95/34/30/88/1/c02a1bfe-51d2-4632-aebe-ff0444ad8624/kaltura/desc_047c451e2ce6413738535fe020f533f7/voJZ2MYij_ic/vw=1280,vh=720,fps=24.00,vbrt=867082,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 15B
+https://cdn.dzen.ru/vod/converted-video/vod-content/14/06/71/78/18/88/08/33/99/4/a64da6df-d206-46ff-8342-8a35b1ca933a/kaltura/desc_71b4a6dce319a369b5d840496e125597/vzhmi1kvaxAE/vw=1280,vh=720,fps=24.00,vbrt=877049,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 16B
+https://cdn.dzen.ru/vod/converted-video/vod-content/45/26/86/96/44/66/33/30/91/5/adde10be-be2b-419d-b2e7-73d4aa79dff5/kaltura/desc_9a43b8ab38ddbb563b4a8a3f78386d71/voXn8rfmCxEs/vw=1280,vh=720,fps=24.00,vbrt=949647,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 17B
+https://cdn.dzen.ru/vod/converted-video/vod-content/84/45/55/40/41/42/57/50/49/adef243f-985d-42de-856c-f3117b352ff9/kaltura/desc_83a795fe775359226e49f0b9f476a677/v9Tia7LIfu10/vw=1280,vh=720,fps=24.00,vbrt=809643,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 18B
+https://cdn.dzen.ru/vod/converted-video/vod-content/27/57/46/14/21/66/18/25/62/3/489b858f-3c25-4672-a47c-1d63354e22db/kaltura/desc_4b1ed5f0fa1bf544b7e7a96fc82f7d45/vYlbSfDlR53w/vw=1280,vh=720,fps=24.00,vbrt=961909,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 19B
+https://cdn.dzen.ru/vod/converted-video/vod-content/76/22/78/70/59/65/17/27/68/3/5c3e115f-0249-47e3-9cc1-c978a4abf2c9/kaltura/desc_b966175568cffd26b7abf0d7606730a8/vtNURS3NFZRQ/vw=1280,vh=720,fps=24.00,vbrt=833278,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 20B
+https://cdn.dzen.ru/vod/converted-video/vod-content/61/90/34/74/62/56/59/16/76/9/9b3cb283-0f08-440c-a229-9713739bd00d/kaltura/desc_26b66f9cfb3348d2afa0b707cd70053d/vP1hZsqymYl0/vw=1280,vh=720,fps=24.00,vbrt=976909,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 21B
+https://cdn.dzen.ru/vod/converted-video/vod-content/52/52/50/49/33/38/60/05/22/0/0353ef67-16ae-45ed-b2a9-e1d35aa88e34/kaltura/desc_cc72c3577323ff94c950bf82b3ec07af/v7CNWTThF-jw/vw=1280,vh=720,fps=24.00,vbrt=860492,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 22B
+https://cdn.dzen.ru/vod/converted-video/vod-content/42/99/08/22/67/89/66/38/49/2/100b7bfe-a826-4b3f-bf23-7ca5e6bcd3bd/kaltura/desc_929cd6e4cb10860b12d31483d49e3e3a/vB5tkx2Obtgg/vw=1280,vh=720,fps=24.00,vbrt=1331494,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 1B
+https://cdn.dzen.ru/vod/converted-video/vod-content/81/82/96/29/69/81/36/66/81/4/103a93ae-8fa2-4592-ae0f-1dfea4dc9436/kaltura/desc_7ace0cc208c741f1f257d3616365f680/velUi9nGeCzw/vw=1280,vh=720,fps=24.00,vbrt=960363,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 2B
+https://cdn.dzen.ru/vod/converted-video/vod-content/27/97/28/82/62/74/80/59/18/7/9a65a57a-af2a-448a-a5ec-76592c43a462/kaltura/desc_dd6720d9bfa816352d7f48e76c3f6b9c/v1JYtPhs2qho/vw=1280,vh=720,fps=24.00,vbrt=852323,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 3B
+https://cdn.dzen.ru/vod/converted-video/vod-content/76/42/82/37/23/84/98/76/21/6/2b245750-9216-4581-af3c-fab87c505898/kaltura/desc_bfcdb923d6526c1f73ce710057612add/vCD3QbUdNNRc/vw=1280,vh=720,fps=24.00,vbrt=871023,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 4B
+https://cdn.dzen.ru/vod/converted-video/vod-content/24/33/00/23/18/25/31/05/88/1/ba02afbc-f3ad-45d5-b056-58b5800bc371/kaltura/desc_196a6ddf565d20256fc6fa4d24b41ad9/vRVhfu8Z8zkY/vw=1280,vh=720,fps=24.00,vbrt=910143,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 5B
+https://cdn.dzen.ru/vod/converted-video/vod-content/74/94/47/43/58/64/82/77/70/3/e0f8d817-3734-4db0-b870-d531dfa97ee0/kaltura/desc_6ed7c014489b6d38f86617f8130434d4/vCLaOAKihukA/vw=1280,vh=720,fps=24.00,vbrt=1026513,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 6B
+https://cdn.dzen.ru/vod/converted-video/vod-content/39/32/97/57/12/17/17/08/28/9/8677ecf7-b377-45ec-b05d-bf10313643c8/kaltura/desc_06796756da4f157e735a861853723049/vNT8Bd5FBEyI/vw=1280,vh=720,fps=24.00,vbrt=855397,abrt=131523,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 7B
+https://cdn.dzen.ru/vod/converted-video/vod-content/73/69/84/52/17/56/68/93/39/2/2841c891-f2c1-47f1-b4f8-a9229b27e969/kaltura/desc_82b7a922b7a6c30341f7acf55892ffc2/vwcVgkCzZ21E/vw=1280,vh=720,fps=24.00,vbrt=1006456,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 8B
+https://cdn.dzen.ru/vod/converted-video/vod-content/66/84/72/60/17/97/26/35/81/3/ec30ebc7-7fe1-46ab-901a-8c41cd8ae4e3/kaltura/desc_7e55574f34a30ae2bbb8d4688fe2147f/v9mMVWP3kTEQ/vw=1280,vh=720,fps=24.00,vbrt=1018684,abrt=131523,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 9B
+https://cdn.dzen.ru/vod/converted-video/vod-content/49/83/73/07/98/47/54/28/98/1/46778896-2cb5-4d3a-9d67-aac1f4b9b82e/kaltura/desc_c3c88e768d7f3f1cd7087fc708a6d49e/vT3Jb1Hq_i10/vw=1280,vh=720,fps=24.00,vbrt=907802,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 10B
+https://cdn.dzen.ru/vod/converted-video/vod-content/33/69/75/27/80/96/31/99/06/6/45755fdf-c8af-4f96-a8c5-ac31d4e57272/kaltura/desc_dd369ca7313ca3fe46800507fa6298d7/vqXNFQiK1oQE/vw=1280,vh=720,fps=24.00,vbrt=787144,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 11B
+https://cdn.dzen.ru/vod/converted-video/vod-content/43/45/91/39/34/65/26/27/67/2/71bca9c5-76ce-4cc2-a552-d60a53ada0de/kaltura/desc_121cadd7c60625600c2d8551ef2fe85c/v3dUJp8u2dUA/vw=1280,vh=720,fps=24.00,vbrt=694097,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 12B
+https://cdn.dzen.ru/vod/converted-video/vod-content/72/39/12/55/96/63/35/97/77/6/3b141679-dc61-4b52-a584-d4995553e60a/kaltura/desc_21fb6eca503f46a12262e2f1752a60f2/va1r4c6CcdEs/vw=1280,vh=720,fps=24.00,vbrt=996996,abrt=131524,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 13B
+https://cdn.dzen.ru/vod/converted-video/vod-content/56/11/15/21/02/04/36/56/32/6/306933f5-eff9-43c3-b887-5141ff39b246/kaltura/desc_10a80ec8bdb2e73c46b3b0f275d6a33f/vDOHJq5gBIkU/vw=1280,vh=720,fps=24.00,vbrt=957539,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 14B
+https://cdn.dzen.ru/vod/converted-video/vod-content/38/16/97/92/72/05/63/67/53/2822c663-ebb1-49ee-8058-8f9cf4aeb665/kaltura/desc_271f20da7610631bdb6fd17fd2ed4f96/vjmNHmNNEkDs/vw=1280,vh=720,fps=24.00,vbrt=1054211,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 15B
+https://cdn.dzen.ru/vod/converted-video/vod-content/82/53/13/69/01/20/48/49/96/1/6333388b-02da-4e19-b95a-94755bd25d13/kaltura/desc_c927bc9de726aa1874215f689acb7fd1/vq8I5Zm_MSng/vw=1280,vh=720,fps=24.00,vbrt=946706,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 16B
+https://cdn.dzen.ru/vod/converted-video/vod-content/86/99/91/86/92/11/93/51/69/7/01fc864c-52de-470d-a9c6-eb77d6cbcb17/kaltura/desc_0145dcbc6a3c77d7406a8ac24316944f/v2XtoD8oGEXA/vw=1280,vh=720,fps=24.00,vbrt=718105,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 17B
+https://cdn.dzen.ru/vod/converted-video/vod-content/83/47/00/86/30/15/76/48/55/2/3e34b238-658c-435e-9e44-6b2623b05a75/kaltura/desc_47c6da40736d0d14eabcacbebcfc9f5b/vGrHT0upM9mA/vw=1280,vh=720,fps=24.00,vbrt=937678,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 18B
+https://cdn.dzen.ru/vod/converted-video/vod-content/26/12/78/64/30/67/21/76/43/8/742d7cd5-188c-445c-b9a1-0a72e112959d/kaltura/desc_e9f5f13ed067200c38b35974383600a1/v5go-SLVLynU/vw=1280,vh=720,fps=24.00,vbrt=897687,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.pinimg.com/736x/79/82/45/798245f99954cd0920d3cc562f6a6509.jpg" background="blue", İYİ ŞANSLAR CHARLİE 1S 2B
 https://cdn.dzen.ru/vod/converted-video/vod-content/86/38/65/71/12/15/21/40/11/3/5a165854-f417-49d4-aab2-5306b619e3a8/kaltura/desc_80753d467cec9b4bdc060fbd90b3a428/vM8Uvby5tgzc/vw=1280,vh=720,fps=24.00,vbrt=1730728,abrt=129388,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
@@ -846,62 +991,6 @@ https://cdn.dzen.ru/vod/converted-video/vod-content/20/69/20/54/21/91/41/35/19/9
 https://cdn.dzen.ru/vod/converted-video/vod-content/73/05/53/23/61/18/94/67/00/7/074e8d5b-88b7-406e-a658-ffacaf386c98/kaltura/desc_ba56f91f39ed90f062aca5104890a22d/vWynfYwKkfmA/vw=1280,vh=720,fps=24.00,vbrt=1061337,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
 
 
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.cnn.com/api/v1/images/stellar/prod/210308132932-03-wandavision.jpg?q=w_2000,c_fill" background="blue", WANDAVİSİON 1S 2B
-https://cdn.dzen.ru/vod/converted-video/vod-content/40/14/70/50/23/59/54/37/06/2/6114b19a-1e3d-408a-8e26-ebce4982d2c7/kaltura/desc_00c5b9c1aafe8d8098f9dc032d5ea25d/vq9UK-ENyIkI/vw=1280,vh=720,fps=24.00,vbrt=806164,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.cnn.com/api/v1/images/stellar/prod/210308132932-03-wandavision.jpg?q=w_2000,c_fill" background="blue", WANDAVİSİON 1S 3B
-https://cdn.dzen.ru/vod/converted-video/vod-content/60/28/95/92/94/96/24/79/55a96e2c-9957-4937-9640-87e4c634a904/kaltura/desc_47b68b253f55639c1c067054bd59c47f/vAC6cU5vw8gw/vw=1280,vh=720,fps=24.00,vbrt=862236,abrt=129384,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.cnn.com/api/v1/images/stellar/prod/210308132932-03-wandavision.jpg?q=w_2000,c_fill" background="blue", WANDAVİSİON 1S 4B
-https://cdn.dzen.ru/vod/converted-video/vod-content/76/94/18/53/57/84/63/40/76/1/9212174f-0ae8-4a38-aa13-33535bf0f67f/kaltura/desc_d3b06b325e9218fac2d2ec6786c81b4b/vzSqZdxozmBA/vw=1280,vh=720,fps=24.00,vbrt=750150,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.cnn.com/api/v1/images/stellar/prod/210308132932-03-wandavision.jpg?q=w_2000,c_fill" background="blue", WANDAVİSİON 1S 5B
-https://cdn.dzen.ru/vod/converted-video/vod-content/85/12/05/54/27/23/07/10/76/9/cb50d7b4-1459-4c07-924d-e34f9231154a/kaltura/desc_d9e0bddad2f793d13d8999e7f26dee2f/vd5A-dMyNQAM/vw=1280,vh=720,fps=24.00,vbrt=861382,abrt=129382,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.cnn.com/api/v1/images/stellar/prod/210308132932-03-wandavision.jpg?q=w_2000,c_fill" background="blue", WANDAVİSİON 1S 6B
-https://cdn.dzen.ru/vod/converted-video/vod-content/34/21/85/44/41/88/54/70/46/0/e5a81a70-1447-483f-b55b-4d039f180221/kaltura/desc_d05605dfb9b1d347b78cd037ee3279a7/voRxJLMS1Tjo/vw=1280,vh=720,fps=24.00,vbrt=884540,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.cnn.com/api/v1/images/stellar/prod/210308132932-03-wandavision.jpg?q=w_2000,c_fill" background="blue", WANDAVİSİON 1S 7B
-https://cdn.dzen.ru/vod/converted-video/vod-content/37/00/30/14/28/27/18/95/83/2/5f0a97d1-87ca-4f8f-a22d-e415d5d61630/kaltura/desc_6845babc513e8f67630e5d2c87f95add/v3WwA3IlhzgE/vw=1280,vh=720,fps=24.00,vbrt=1078124,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.cnn.com/api/v1/images/stellar/prod/210308132932-03-wandavision.jpg?q=w_2000,c_fill" background="blue", WANDAVİSİON 1S 8B
-https://cdn.dzen.ru/vod/converted-video/vod-content/50/63/45/59/36/30/56/54/78/7/6fe776f6-4639-4ee6-b957-b1ee98015201/kaltura/desc_f666397fc03dfec78be3640a6271fe9b/vRejLObNO_Fk/vw=1280,vh=720,fps=24.00,vbrt=629271,abrt=129382,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.cnn.com/api/v1/images/stellar/prod/210308132932-03-wandavision.jpg?q=w_2000,c_fill" background="blue", WANDAVİSİON 1S 9B
-https://cdn.dzen.ru/vod/converted-video/vod-content/37/03/85/69/03/29/15/58/42/6/39eb879a-6e32-4c7a-8f39-3406b1d0851b/kaltura/desc_da2715e0a783d946adf71a4126b5fe51/vqTd_R6KoP1o/vw=1280,vh=720,fps=24.00,vbrt=814847,abrt=129382,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
-
-
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://images.thedirect.com/media/article_full/hawkeyes.jpg" background="blue", HAWKEYE 1S 2B
-https://cdn.dzen.ru/vod/converted-video/vod-content/81/75/76/97/50/74/14/23/63/7/efc70ae5-1762-4017-ad97-26e94a7cfc78/kaltura/desc_61057b4729fcb017d7317bf09a68c428/v-FERmeiMjz4/vw=1280,vh=536,fps=24.00,vbrt=726081,abrt=129384,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
-
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://images.thedirect.com/media/article_full/hawkeyes.jpg" background="blue", HAWKEYE 1S 3B
-https://cdn.dzen.ru/vod/converted-video/vod-content/70/75/07/79/28/99/54/97/67/7/9f887c73-5d71-4e50-a3f8-0923413d6c00/kaltura/desc_b71dcc83f430a9f22be9a05a5c96cf19/v3LTGT20ODi8/vw=1280,vh=536,fps=24.00,vbrt=887851,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://images.thedirect.com/media/article_full/hawkeyes.jpg" background="blue", HAWKEYE 1S 4B
-https://cdn.dzen.ru/vod/converted-video/vod-content/48/19/18/93/28/06/67/09/15/9/acf48343-11aa-405e-85c1-a7425984756b/kaltura/desc_be6a584b5683704e555604cd9d5bcb23/vgDCHkacEOGU/vw=1280,vh=536,fps=24.00,vbrt=555661,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
-
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://images.thedirect.com/media/article_full/hawkeyes.jpg" background="blue", HAWKEYE 1S 5B
-https://cdn.dzen.ru/vod/converted-video/vod-content/21/18/61/86/28/32/54/30/20/9/e351b240-4527-457a-b812-1d4f38209473/kaltura/desc_d4708786a3d25bd15f5133de07d86c6c/vHYPGS9LfQm4/vw=1280,vh=536,fps=24.00,vbrt=502618,abrt=129382,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
-
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://images.thedirect.com/media/article_full/hawkeyes.jpg" background="blue", HAWKEYE 1S 6B
-https://cdn.dzen.ru/vod/converted-video/vod-content/77/72/18/95/15/35/65/84/77/0/b2c23f6d-728e-40bf-8912-765656e824ac/kaltura/desc_31ea47c8641fcbe8e7aef6eb6700a954/v3VdQ4Ce1mWE/vw=1280,vh=536,fps=24.00,vbrt=826177,abrt=129381,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.kayiprihtim.com/wp-content/uploads/2022/07/I-Am-Groot-fragman.jpg" background="blue", İ AM GROOT 1S 2B
-https://cdn.dzen.ru/vod/converted-video/vod-content/53/26/05/32/12/86/37/67/89/9/2c3e5fc2-eae8-4f7a-8e53-d71170f1f023/kaltura/desc_a21c84eed9fa7fb47cbe16cdd228ceaf/vEMUMepQDOyk/vw=1280,vh=720,fps=24.00,vbrt=962710,abrt=131569,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.kayiprihtim.com/wp-content/uploads/2022/07/I-Am-Groot-fragman.jpg" background="blue", İ AM GROOT 1S 3B
-https://cdn.dzen.ru/vod/converted-video/vod-content/67/02/50/68/66/02/27/34/27/7/f2e224a9-59e7-4478-a723-d1619157a029/kaltura/desc_8822fe0145280c617114b9e8d699dd66/vONqZX1ypWzU/vw=1280,vh=720,fps=24.00,vbrt=858393,abrt=131568,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.kayiprihtim.com/wp-content/uploads/2022/07/I-Am-Groot-fragman.jpg" background="blue", İ AM GROOT 1S 4B
-https://cdn.dzen.ru/vod/converted-video/vod-content/51/29/05/50/45/02/64/67/19/9/97ce0c0b-9d7d-418a-aea2-d02c154bed6c/kaltura/desc_6009168eadc68a15eb5f75f78a8a94d1/vzAVwZuYuglc/vw=1280,vh=720,fps=24.00,vbrt=1117634,abrt=131574,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.kayiprihtim.com/wp-content/uploads/2022/07/I-Am-Groot-fragman.jpg" background="blue", İ AM GROOT 1S 5B
-https://cdn.dzen.ru/vod/converted-video/vod-content/19/25/79/30/88/60/60/05/51/0/01d6c0b2-c48b-480d-8ce5-b64e70c43518/kaltura/desc_51845517d18c850d7fbbc17d0a1f1590/vWXLJTwKu-nU/vw=1280,vh=720,fps=24.00,vbrt=1165859,abrt=131573,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.kayiprihtim.com/wp-content/uploads/2022/07/I-Am-Groot-fragman.jpg" background="blue", İ AM GROOT 2S 1B
-https://cdn.dzen.ru/vod/converted-video/vod-content/56/60/07/30/17/84/96/95/92/2/246248d0-2682-49cd-852e-727e0abe746b/kaltura/desc_adcb6b09a29b27cc2babec932e2bec94/vKS_DYH-XgSU/vw=1280,vh=720,fps=24.00,vbrt=841294,abrt=131542,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.kayiprihtim.com/wp-content/uploads/2022/07/I-Am-Groot-fragman.jpg" background="blue", İ AM GROOT 2S 2B
-https://cdn.dzen.ru/vod/converted-video/vod-content/71/58/34/88/57/18/37/03/97/9/171802a9-493e-4a7d-9263-974b87ed0715/kaltura/desc_833f38965c4a46cd8b00f361bb8de011/vg9VxUxY0DWA/vw=1280,vh=720,fps=24.00,vbrt=827769,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
-
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.kayiprihtim.com/wp-content/uploads/2022/07/I-Am-Groot-fragman.jpg" background="blue", İ AM GROOT 2S 3B
-https://cdn.dzen.ru/vod/converted-video/vod-content/20/97/10/84/53/53/32/38/88/4/0d576947-6127-4514-b8d3-c86b1bfc1649/kaltura/desc_ed7df60d47d4b4635f0f85316f8831e0/vOp6cdJU-jBw/vw=1280,vh=720,fps=24.00,vbrt=780999,abrt=131542,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.kayiprihtim.com/wp-content/uploads/2022/07/I-Am-Groot-fragman.jpg" background="blue", İ AM GROOT 2S 4B
-https://cdn.dzen.ru/vod/converted-video/vod-content/46/00/87/71/24/07/41/99/47/0/f754c9ce-93e4-4edb-86e6-863763b78703/kaltura/desc_d04c58a8c44c211ab15be8a286e6a85b/vnzeMoXwvN2w/vw=1280,vh=720,fps=24.00,vbrt=1022878,abrt=131544,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.kayiprihtim.com/wp-content/uploads/2022/07/I-Am-Groot-fragman.jpg" background="blue", İ AM GROOT 2S 5B
-https://cdn.dzen.ru/vod/converted-video/vod-content/70/15/83/28/45/80/56/92/52/1/d363965a-16c9-4957-a80d-b63584881df0/kaltura/desc_076e61f25a69ddbc66b9fab9ad1d9e8d/v97OO1ALXIUQ/vw=1280,vh=720,fps=24.00,vbrt=882666,abrt=131541,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/042632ba44e82bbd73138049192424046a4b8d59be5875a977c58e02982e9403.jpg" background="blue", HOW İ MET YOUR MOTHER 1S 2B
 https://storage.diziyou.co/episodes/10902_tr/720p.m3u8
@@ -1459,87 +1548,6 @@ https://lh3.googleusercontent.com/rlgClehXYk1cx0Fva7UY9VLYQLZdvvakGmwXLu4gkSRrqg
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 22B
 https://cdn.dzen.ru/vod/converted-video/vod-content/75/31/30/54/59/93/48/97/96/4/32451ea5-79aa-4fb5-bc34-9ca399ff1db0/kaltura/desc_0e358e63f2142671cdc2be6d300fc871/vN7A1LSUV9Ws/vw=1280,vh=544,fps=24.00,vbrt=720732,abrt=129506,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
 
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 1B
-https://cdn.dzen.ru/vod/converted-video/vod-content/63/68/65/20/79/29/22/60/44/1/ab5edaa2-d2fb-455b-bc48-e86ad946cef8/kaltura/desc_ee960928584e876ca8ccc208b42fa4e7/vcISzLmFhczs/vw=1280,vh=720,fps=24.00,vbrt=1000773,abrt=131524,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 2B
-https://cdn.dzen.ru/vod/converted-video/vod-content/54/62/99/73/04/39/79/36/19/7/c9008723-917a-4c2e-b622-4d5ef1403bc9/kaltura/desc_d22b9715dc475c169e430a36705aa39a/vZ3p3L7ifq3s/vw=1280,vh=720,fps=24.00,vbrt=994405,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 3B
-https://cdn.dzen.ru/vod/converted-video/vod-content/57/40/89/02/83/11/47/34/90/5/222b1e31-2eac-4d81-8db7-0c83852a6b62/kaltura/desc_e1154bab722164cdf81f796f5c5f2910/v-zStImh_Xm0/vw=1280,vh=720,fps=24.00,vbrt=943360,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 4B
-https://cdn.dzen.ru/vod/converted-video/vod-content/64/05/27/32/35/86/53/58/77/9/8e17c42e-1994-44de-b641-27b18130d30d/kaltura/desc_21ce08eff858836e2a77f866c877ccbe/va5VMX1VHQTo/vw=1280,vh=720,fps=24.00,vbrt=891098,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 5B
-https://cdn.dzen.ru/vod/converted-video/vod-content/52/42/69/71/70/77/25/32/52/9/c00c4999-fcf3-4aad-8e41-8313996dcdac/kaltura/desc_72f558beda33bbbca7b0c8301c72694f/vTkGTf5Vbkk8/vw=1280,vh=720,fps=24.00,vbrt=1059681,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 6B
-https://cdn.dzen.ru/vod/converted-video/vod-content/92/10/95/66/66/65/31/92/99/7464459b-9c76-46e7-9a80-81f709eeae41/kaltura/desc_a9ac0a79b958b3d9d4116ca4ebd3bd1c/vdSqXLEFKghc/vw=1280,vh=720,fps=24.00,vbrt=1011271,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 7B
-https://cdn.dzen.ru/vod/converted-video/vod-content/75/99/80/15/88/80/08/44/69/0/d8260964-ebda-42f8-8384-276cc1ec510c/kaltura/desc_6eb792a5e39e1910b76c8514c9fbce77/vCCUkMwBd3xA/vw=1280,vh=720,fps=24.00,vbrt=871240,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 8B
-https://cdn.dzen.ru/vod/converted-video/vod-content/28/54/12/71/12/03/92/64/45/1/015711b6-bc50-4bb6-97b9-1bfdc34e1ecb/kaltura/desc_10e01e3a0022c61ef5198f1742b94c2d/v3QaRUwSKZgI/vw=1280,vh=720,fps=24.00,vbrt=978200,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 9B
-https://cdn.dzen.ru/vod/converted-video/vod-content/72/92/18/08/08/08/30/81/96/0/4a821e54-c240-484b-871f-54a3cc78756c/kaltura/desc_984b1105e51a974e81ff2b330cf7a1ed/v3IkCfLIwrUY/vw=1280,vh=720,fps=24.00,vbrt=811897,abrt=131523,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 10B
-https://cdn.dzen.ru/vod/converted-video/vod-content/51/00/37/36/57/23/88/15/41/6/f377be99-9e02-4b20-b215-e7436bc94e6a/kaltura/desc_a606980e3ee1f66f905f5a129efcbc42/vc7VZJ_Hhg0o/vw=1280,vh=720,fps=24.00,vbrt=884281,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 11B
-https://cdn.dzen.ru/vod/converted-video/vod-content/82/77/61/83/79/58/36/07/07/2/a0322963-2e9f-4f61-8ece-5b40226ddc8e/kaltura/desc_84fa7bbd1cff2ddce6ac57d4b3a97823/vu_9unPUoDTI/vw=1280,vh=720,fps=24.00,vbrt=875188,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 12B
-https://cdn.dzen.ru/vod/converted-video/vod-content/75/53/99/44/86/75/03/90/65/5/6c030f63-2ece-46a0-9272-3f76eacc1f99/kaltura/desc_4486b4152ce05f839fd2cc97d16336e1/vL8i5w21-dWA/vw=1280,vh=720,fps=24.00,vbrt=886494,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 13B
-https://cdn.dzen.ru/vod/converted-video/vod-content/85/00/86/95/74/76/31/61/07/0/9e4122a0-d3a0-4da2-81dc-2a20db211d14/kaltura/desc_93e2dbb8a2ed5904017ecb27d369d507/vYpwL_ct_kVQ/vw=1280,vh=720,fps=24.00,vbrt=871014,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 14B
-https://cdn.dzen.ru/vod/converted-video/vod-content/29/34/12/41/74/95/34/30/88/1/c02a1bfe-51d2-4632-aebe-ff0444ad8624/kaltura/desc_047c451e2ce6413738535fe020f533f7/voJZ2MYij_ic/vw=1280,vh=720,fps=24.00,vbrt=867082,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 15B
-https://cdn.dzen.ru/vod/converted-video/vod-content/14/06/71/78/18/88/08/33/99/4/a64da6df-d206-46ff-8342-8a35b1ca933a/kaltura/desc_71b4a6dce319a369b5d840496e125597/vzhmi1kvaxAE/vw=1280,vh=720,fps=24.00,vbrt=877049,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 16B
-https://cdn.dzen.ru/vod/converted-video/vod-content/45/26/86/96/44/66/33/30/91/5/adde10be-be2b-419d-b2e7-73d4aa79dff5/kaltura/desc_9a43b8ab38ddbb563b4a8a3f78386d71/voXn8rfmCxEs/vw=1280,vh=720,fps=24.00,vbrt=949647,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 17B
-https://cdn.dzen.ru/vod/converted-video/vod-content/84/45/55/40/41/42/57/50/49/adef243f-985d-42de-856c-f3117b352ff9/kaltura/desc_83a795fe775359226e49f0b9f476a677/v9Tia7LIfu10/vw=1280,vh=720,fps=24.00,vbrt=809643,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 18B
-https://cdn.dzen.ru/vod/converted-video/vod-content/27/57/46/14/21/66/18/25/62/3/489b858f-3c25-4672-a47c-1d63354e22db/kaltura/desc_4b1ed5f0fa1bf544b7e7a96fc82f7d45/vYlbSfDlR53w/vw=1280,vh=720,fps=24.00,vbrt=961909,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 19B
-https://cdn.dzen.ru/vod/converted-video/vod-content/76/22/78/70/59/65/17/27/68/3/5c3e115f-0249-47e3-9cc1-c978a4abf2c9/kaltura/desc_b966175568cffd26b7abf0d7606730a8/vtNURS3NFZRQ/vw=1280,vh=720,fps=24.00,vbrt=833278,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 20B
-https://cdn.dzen.ru/vod/converted-video/vod-content/61/90/34/74/62/56/59/16/76/9/9b3cb283-0f08-440c-a229-9713739bd00d/kaltura/desc_26b66f9cfb3348d2afa0b707cd70053d/vP1hZsqymYl0/vw=1280,vh=720,fps=24.00,vbrt=976909,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 21B
-https://cdn.dzen.ru/vod/converted-video/vod-content/52/52/50/49/33/38/60/05/22/0/0353ef67-16ae-45ed-b2a9-e1d35aa88e34/kaltura/desc_cc72c3577323ff94c950bf82b3ec07af/v7CNWTThF-jw/vw=1280,vh=720,fps=24.00,vbrt=860492,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 22B
-https://cdn.dzen.ru/vod/converted-video/vod-content/42/99/08/22/67/89/66/38/49/2/100b7bfe-a826-4b3f-bf23-7ca5e6bcd3bd/kaltura/desc_929cd6e4cb10860b12d31483d49e3e3a/vB5tkx2Obtgg/vw=1280,vh=720,fps=24.00,vbrt=1331494,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
-
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 1B
-https://cdn.dzen.ru/vod/converted-video/vod-content/81/82/96/29/69/81/36/66/81/4/103a93ae-8fa2-4592-ae0f-1dfea4dc9436/kaltura/desc_7ace0cc208c741f1f257d3616365f680/velUi9nGeCzw/vw=1280,vh=720,fps=24.00,vbrt=960363,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 2B
-https://cdn.dzen.ru/vod/converted-video/vod-content/27/97/28/82/62/74/80/59/18/7/9a65a57a-af2a-448a-a5ec-76592c43a462/kaltura/desc_dd6720d9bfa816352d7f48e76c3f6b9c/v1JYtPhs2qho/vw=1280,vh=720,fps=24.00,vbrt=852323,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 3B
-https://cdn.dzen.ru/vod/converted-video/vod-content/76/42/82/37/23/84/98/76/21/6/2b245750-9216-4581-af3c-fab87c505898/kaltura/desc_bfcdb923d6526c1f73ce710057612add/vCD3QbUdNNRc/vw=1280,vh=720,fps=24.00,vbrt=871023,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 4B
-https://cdn.dzen.ru/vod/converted-video/vod-content/24/33/00/23/18/25/31/05/88/1/ba02afbc-f3ad-45d5-b056-58b5800bc371/kaltura/desc_196a6ddf565d20256fc6fa4d24b41ad9/vRVhfu8Z8zkY/vw=1280,vh=720,fps=24.00,vbrt=910143,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 5B
-https://cdn.dzen.ru/vod/converted-video/vod-content/74/94/47/43/58/64/82/77/70/3/e0f8d817-3734-4db0-b870-d531dfa97ee0/kaltura/desc_6ed7c014489b6d38f86617f8130434d4/vCLaOAKihukA/vw=1280,vh=720,fps=24.00,vbrt=1026513,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 6B
-https://cdn.dzen.ru/vod/converted-video/vod-content/39/32/97/57/12/17/17/08/28/9/8677ecf7-b377-45ec-b05d-bf10313643c8/kaltura/desc_06796756da4f157e735a861853723049/vNT8Bd5FBEyI/vw=1280,vh=720,fps=24.00,vbrt=855397,abrt=131523,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 7B
-https://cdn.dzen.ru/vod/converted-video/vod-content/73/69/84/52/17/56/68/93/39/2/2841c891-f2c1-47f1-b4f8-a9229b27e969/kaltura/desc_82b7a922b7a6c30341f7acf55892ffc2/vwcVgkCzZ21E/vw=1280,vh=720,fps=24.00,vbrt=1006456,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 8B
-https://cdn.dzen.ru/vod/converted-video/vod-content/66/84/72/60/17/97/26/35/81/3/ec30ebc7-7fe1-46ab-901a-8c41cd8ae4e3/kaltura/desc_7e55574f34a30ae2bbb8d4688fe2147f/v9mMVWP3kTEQ/vw=1280,vh=720,fps=24.00,vbrt=1018684,abrt=131523,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 9B
-https://cdn.dzen.ru/vod/converted-video/vod-content/49/83/73/07/98/47/54/28/98/1/46778896-2cb5-4d3a-9d67-aac1f4b9b82e/kaltura/desc_c3c88e768d7f3f1cd7087fc708a6d49e/vT3Jb1Hq_i10/vw=1280,vh=720,fps=24.00,vbrt=907802,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 10B
-https://cdn.dzen.ru/vod/converted-video/vod-content/33/69/75/27/80/96/31/99/06/6/45755fdf-c8af-4f96-a8c5-ac31d4e57272/kaltura/desc_dd369ca7313ca3fe46800507fa6298d7/vqXNFQiK1oQE/vw=1280,vh=720,fps=24.00,vbrt=787144,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 11B
-https://cdn.dzen.ru/vod/converted-video/vod-content/43/45/91/39/34/65/26/27/67/2/71bca9c5-76ce-4cc2-a552-d60a53ada0de/kaltura/desc_121cadd7c60625600c2d8551ef2fe85c/v3dUJp8u2dUA/vw=1280,vh=720,fps=24.00,vbrt=694097,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 12B
-https://cdn.dzen.ru/vod/converted-video/vod-content/72/39/12/55/96/63/35/97/77/6/3b141679-dc61-4b52-a584-d4995553e60a/kaltura/desc_21fb6eca503f46a12262e2f1752a60f2/va1r4c6CcdEs/vw=1280,vh=720,fps=24.00,vbrt=996996,abrt=131524,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 13B
-https://cdn.dzen.ru/vod/converted-video/vod-content/56/11/15/21/02/04/36/56/32/6/306933f5-eff9-43c3-b887-5141ff39b246/kaltura/desc_10a80ec8bdb2e73c46b3b0f275d6a33f/vDOHJq5gBIkU/vw=1280,vh=720,fps=24.00,vbrt=957539,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 14B
-https://cdn.dzen.ru/vod/converted-video/vod-content/38/16/97/92/72/05/63/67/53/2822c663-ebb1-49ee-8058-8f9cf4aeb665/kaltura/desc_271f20da7610631bdb6fd17fd2ed4f96/vjmNHmNNEkDs/vw=1280,vh=720,fps=24.00,vbrt=1054211,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 15B
-https://cdn.dzen.ru/vod/converted-video/vod-content/82/53/13/69/01/20/48/49/96/1/6333388b-02da-4e19-b95a-94755bd25d13/kaltura/desc_c927bc9de726aa1874215f689acb7fd1/vq8I5Zm_MSng/vw=1280,vh=720,fps=24.00,vbrt=946706,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 16B
-https://cdn.dzen.ru/vod/converted-video/vod-content/86/99/91/86/92/11/93/51/69/7/01fc864c-52de-470d-a9c6-eb77d6cbcb17/kaltura/desc_0145dcbc6a3c77d7406a8ac24316944f/v2XtoD8oGEXA/vw=1280,vh=720,fps=24.00,vbrt=718105,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 17B
-https://cdn.dzen.ru/vod/converted-video/vod-content/83/47/00/86/30/15/76/48/55/2/3e34b238-658c-435e-9e44-6b2623b05a75/kaltura/desc_47c6da40736d0d14eabcacbebcfc9f5b/vGrHT0upM9mA/vw=1280,vh=720,fps=24.00,vbrt=937678,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 35S 18B
-https://cdn.dzen.ru/vod/converted-video/vod-content/26/12/78/64/30/67/21/76/43/8/742d7cd5-188c-445c-b9a1-0a72e112959d/kaltura/desc_e9f5f13ed067200c38b35974383600a1/v5go-SLVLynU/vw=1280,vh=720,fps=24.00,vbrt=897687,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
 
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/04/Fantastic-Four-Worlds-Greatest-Heroes-featurejpg.jpg" background="blue", FANTASTİK DÖRTLÜ (2006) 1S 2B
@@ -1924,3 +1932,207 @@ https://storage.diziyou.co/episodes/84406_tr/720p.m3u8
 https://storage.diziyou.co/episodes/84407_tr/720p.m3u8  
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.sortiraparis.com/images/80/94880/1019292-percy-jackson-et-les-olympiens-la-serie-disney-devoile-une-nouvelle-bande-annonce.jpg" background="blue", PERCY JACKSON 1S 8B  
 https://storage.diziyou.co/episodes/84408_tr/720p.m3u8  
+
+ 
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/02/cyclops-on-x-men-97.jpg" background="blue", X-MEN 97 1S 2B  
+https://storage.diziyou.co/episodes/91702_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/02/cyclops-on-x-men-97.jpg" background="blue", X-MEN 97 1S 3B  
+https://storage.diziyou.co/episodes/91703_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/02/cyclops-on-x-men-97.jpg" background="blue", X-MEN 97 1S 4B  
+https://storage.diziyou.co/episodes/91704_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/02/cyclops-on-x-men-97.jpg" background="blue", X-MEN 97 1S 5B  
+https://storage.diziyou.co/episodes/91705_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/02/cyclops-on-x-men-97.jpg" background="blue", X-MEN 97 1S 6B  
+https://storage.diziyou.co/episodes/91706_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/02/cyclops-on-x-men-97.jpg" background="blue", X-MEN 97 1S 7B  
+https://storage.diziyou.co/episodes/91707_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/02/cyclops-on-x-men-97.jpg" background="blue", X-MEN 97 1S 8B  
+https://storage.diziyou.co/episodes/91708_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/02/cyclops-on-x-men-97.jpg" background="blue", X-MEN 97 1S 9B  
+https://storage.diziyou.co/episodes/91709_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/02/cyclops-on-x-men-97.jpg" background="blue", X-MEN 97 1S 10B  
+https://storage.diziyou.co/episodes/91710_tr/720p.m3u8  
+
+
+ 
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 1S 2B  
+https://storage.diziyou.co/episodes/10002_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 1S 3B  
+https://storage.diziyou.co/episodes/10003_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 1S 4B  
+https://storage.diziyou.co/episodes/10004_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 1S 5B  
+https://storage.diziyou.co/episodes/10005_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 1S 6B  
+https://storage.diziyou.co/episodes/10006_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 1S 7B  
+https://storage.diziyou.co/episodes/10007_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 1S 8B  
+https://storage.diziyou.co/episodes/10008_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 1S 9B  
+https://storage.diziyou.co/episodes/10009_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 1S 10B  
+https://storage.diziyou.co/episodes/10010_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 1S 11B  
+https://storage.diziyou.co/episodes/10011_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 1S 12B  
+https://storage.diziyou.co/episodes/10012_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 1S 13B  
+https://storage.diziyou.co/episodes/10013_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 1S 14B  
+https://storage.diziyou.co/episodes/10014_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 1S 15B  
+https://storage.diziyou.co/episodes/10015_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 1S 16B  
+https://storage.diziyou.co/episodes/10016_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 1S 17B  
+https://storage.diziyou.co/episodes/10017_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 1S 18B  
+https://storage.diziyou.co/episodes/10018_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 1S 19B  
+https://storage.diziyou.co/episodes/10019_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 1S 20B  
+https://storage.diziyou.co/episodes/10020_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 1S 21B  
+https://storage.diziyou.co/episodes/10021_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 1S 22B  
+https://storage.diziyou.co/episodes/10022_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 2S 1B  
+https://storage.diziyou.co/episodes/10023_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 2S 2B  
+https://storage.diziyou.co/episodes/10024_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 2S 3B  
+https://storage.diziyou.co/episodes/10025_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 2S 4B  
+https://storage.diziyou.co/episodes/10026_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 2S 5B  
+https://storage.diziyou.co/episodes/10027_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 2S 6B  
+https://storage.diziyou.co/episodes/10028_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 2S 7B  
+https://storage.diziyou.co/episodes/10029_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 2S 8B  
+https://storage.diziyou.co/episodes/10030_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 2S 9B  
+https://storage.diziyou.co/episodes/10031_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 2S 10B  
+https://storage.diziyou.co/episodes/10032_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 2S 11B  
+https://storage.diziyou.co/episodes/10033_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 2S 12B  
+https://storage.diziyou.co/episodes/10034_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 2S 13B  
+https://storage.diziyou.co/episodes/10035_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 2S 14B  
+https://storage.diziyou.co/episodes/10036_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 2S 15B  
+https://storage.diziyou.co/episodes/10037_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 2S 16B  
+https://storage.diziyou.co/episodes/10038_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 2S 17B  
+https://storage.diziyou.co/episodes/10039_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 2S 18B  
+https://storage.diziyou.co/episodes/10040_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 2S 19B  
+https://storage.diziyou.co/episodes/10041_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 2S 20B  
+https://storage.diziyou.co/episodes/10042_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 2S 21B  
+https://storage.diziyou.co/episodes/10043_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 2S 22B  
+https://storage.diziyou.co/episodes/10044_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 3S 1B  
+https://storage.diziyou.co/episodes/10045_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 3S 2B  
+https://storage.diziyou.co/episodes/10046_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 3S 3B  
+https://storage.diziyou.co/episodes/10047_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 3S 4B  
+https://storage.diziyou.co/episodes/10048_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 3S 5B  
+https://storage.diziyou.co/episodes/10049_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 3S 6B  
+https://storage.diziyou.co/episodes/10050_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 3S 7B  
+https://storage.diziyou.co/episodes/10051_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 3S 8B  
+https://storage.diziyou.co/episodes/10052_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 3S 9B  
+https://storage.diziyou.co/episodes/10053_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 3S 10B  
+https://storage.diziyou.co/episodes/10054_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 3S 11B  
+https://storage.diziyou.co/episodes/10055_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 3S 12B  
+https://storage.diziyou.co/episodes/10056_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 3S 13B  
+https://storage.diziyou.co/episodes/10057_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 4S 1B  
+https://storage.diziyou.co/episodes/10058_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 4S 2B  
+https://storage.diziyou.co/episodes/10059_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 4S 3B  
+https://storage.diziyou.co/episodes/10060_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 4S 4B  
+https://storage.diziyou.co/episodes/10061_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 4S 5B  
+https://storage.diziyou.co/episodes/10062_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 4S 6B  
+https://storage.diziyou.co/episodes/10063_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 4S 7B  
+https://storage.diziyou.co/episodes/10064_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 4S 8B  
+https://storage.diziyou.co/episodes/10065_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 4S 9B  
+https://storage.diziyou.co/episodes/10066_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 4S 10B  
+https://storage.diziyou.co/episodes/10067_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 4S 11B  
+https://storage.diziyou.co/episodes/10068_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 4S 12B  
+https://storage.diziyou.co/episodes/10069_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 4S 13B  
+https://storage.diziyou.co/episodes/10070_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 4S 14B  
+https://storage.diziyou.co/episodes/10071_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 4S 15B  
+https://storage.diziyou.co/episodes/10072_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 4S 16B  
+https://storage.diziyou.co/episodes/10073_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 4S 17B  
+https://storage.diziyou.co/episodes/10074_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 4S 18B  
+https://storage.diziyou.co/episodes/10075_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 4S 19B  
+https://storage.diziyou.co/episodes/10076_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 4S 20B  
+https://storage.diziyou.co/episodes/10077_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 4S 21B  
+https://storage.diziyou.co/episodes/10078_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 4S 22B  
+https://storage.diziyou.co/episodes/10079_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 4S 23B  
+https://storage.diziyou.co/episodes/10080_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 5S 1B  
+https://storage.diziyou.co/episodes/10081_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 5S 2B  
+https://storage.diziyou.co/episodes/10082_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 5S 3B  
+https://storage.diziyou.co/episodes/10083_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 5S 4B  
+https://storage.diziyou.co/episodes/10084_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 5S 5B  
+https://storage.diziyou.co/episodes/10085_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 5S 6B  
+https://storage.diziyou.co/episodes/10086_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 5S 7B  
+https://storage.diziyou.co/episodes/10087_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 5S 8B  
+https://storage.diziyou.co/episodes/10088_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="blue", PRİSON BREAK 5S 9B  
+https://storage.diziyou.co/episodes/10089_tr/720p.m3u8
+
+
+
+
+
