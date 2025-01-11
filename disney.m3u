@@ -1,10 +1,14 @@
 #EXTM3U
 
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://duet-cdn.vox-cdn.com/thumbor/0x0:1920x1080/828x552/filters:focal(960x540:961x541):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25357066/Disney__Logo_March_2024.png" background="blue", DİSNEY DİZİLERİ BURADA
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.vox-cdn.com/thumbor/yDcDkg5256nShkwb7J5ZelaLf2k=/0x0:1920x1080/1400x1050/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25357066/Disney__Logo_March_2024.png" background="blue", DİSNEY DİZİLERİ BURADA
 https://cdn.dzen.ru/vod/converted-video/vod-content/46/60/95/04/66/54/06/03/27/6/aa189d91-e22c-4c97-8a8e-20a89b3be13d/kaltura/desc_a0b9ff6e17373d8aa0dc02341e163bb9/vXMOsl_C7G3g/vw=1280,vh=720,fps=24.00,vbrt=1447919,abrt=129388,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/1200px-Marvel_Logo.svg.png" background="blue", MARVEL STUDİOS
 https://cdn.dzen.ru/vod/converted-video/vod-content/90/98/67/00/01/38/74/39/12/7/df8db358-29b7-4afa-8833-6b1548604bba/kaltura/desc_5ddbc9722c3a980c03f7e5a7e39bcb1b/v8K2w2HBd0AQ/vw=1280,vh=720,fps=24.00,vbrt=686116,abrt=129384,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://storage.oyungezer.com.tr/ogz-public/public/content/2024/03/04/content_65e5b730c330a_80540.jpg" background="blue", SHOUGUN 1S 1B  
+https://storage.diziyou.co/episodes/88001_tr/720p.m3u8  
+
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 33S 1B
 https://cdn.dzen.ru/vod/converted-video/vod-content/50/42/88/25/64/95/94/38/04/5/a124d234-6e07-481a-9ccc-6fdf5548e592/kaltura/desc_7ac9c94ec7c650fa2d5052c4b0b1d814/vycwgcwCR2Sw/vw=1280,vh=720,fps=24.00,vbrt=914670,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
@@ -18,9 +22,18 @@ https://storage.diziyou.co/episodes/10901_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.cnn.com/api/v1/images/stellar/prod/210308132932-03-wandavision.jpg?q=w_2000,c_fill" background="blue", WANDAVİSİON 1S 1B
 https://cdn.dzen.ru/vod/converted-video/vod-content/90/98/67/00/01/38/74/39/12/7/df8db358-29b7-4afa-8833-6b1548604bba/kaltura/desc_5ddbc9722c3a980c03f7e5a7e39bcb1b/v8K2w2HBd0AQ/vw=1280,vh=720,fps=24.00,vbrt=686116,abrt=129384,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
 
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://gaming-hive.fr/wp-content/uploads/2024/02/image_2024-02-24_135311998-e1708779315374.png" background="blue", THE ACOLYTE 1S 1B  
+https://storage.diziyou.co/episodes/94701_tr/720p.m3u8  
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.vanityfair.com/photos/6114a5d50b170c6defc5cb3f/4:3/w_1232,h_924,c_limit/What%20If%20lead%20image.jpeg" background="blue", WHAT İF 1S 1B  
+https://storage.diziyou.co/episodes/115401_tr/720p.m3u8  
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.mediavida.com/img/featured/2018/09/d5pclwml8a_xl.jpg" background="blue", İRON FİST 1S 1B
 https://cdn.dzen.ru/vod/converted-video/vod-content/41/73/82/28/05/96/58/41/49/0/79386558-26ec-43f4-97e8-f18d189eddd8/kaltura/desc_5cdc1be237123aa79c4e3e07739569d1/vtjvbSsNg2Cc/vw=1280,vh=720,fps=24.00,vbrt=889801,abrt=131543,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 1S 1B
+https://storage.diziyou.co/episodes/77301_tr/720p.m3u8
+
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/PpVt2bq3B4Y/maxresdefault.jpg" background="blue", MOON KNİGHT 1S 1B
 https://cdn.dzen.ru/vod/converted-video/vod-content/14/02/77/86/05/16/62/29/80/7/5f6089ac-aa97-4cc4-9c0d-647672827c7f/kaltura/desc_b5891834631079117dfa6a1f1ddfa508/voIKmlVs0xAs/vw=1280,vh=536,fps=24.00,vbrt=970597,abrt=131543,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
@@ -28,12 +41,17 @@ https://cdn.dzen.ru/vod/converted-video/vod-content/14/02/77/86/05/16/62/29/80/7
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://images.thedirect.com/media/article_full/hawkeyes.jpg" background="blue", HAWKEYE 1S 1B
 https://cdn.dzen.ru/vod/converted-video/vod-content/80/10/61/35/85/91/94/17/65/1/342f572c-3264-49cb-8353-80de36f3ef31/kaltura/desc_34fc39df79e9f498dceb7188f4b49bf5/vMji4QUb52Ck/vw=1280,vh=536,fps=24.00,vbrt=718384,abrt=129382,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
 
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/1/thequestexclusiveofficialtrailer36190303thequestblogroll-1648848157587.jpg" background="blue", THE QUEST 1S 1B  
+https://storage.diziyou.co/episodes/19351_tr/720p.m3u8  
+
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.kayiprihtim.com/wp-content/uploads/2022/07/I-Am-Groot-fragman.jpg" background="blue", İ AM GROOT 1S 1B
 https://cdn.dzen.ru/vod/converted-video/vod-content/44/91/08/05/91/24/62/21/14/8/8e645656-628a-4c94-aacb-f71c6110b59b/kaltura/desc_97e9af26704951ef945c1f7b872ed0a9/vRRc1kVS1CWc/vw=1280,vh=720,fps=24.00,vbrt=781664,abrt=131567,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/07/loki-from-the-mcu-franchise.jpg" background="blue", LOKİ 1S 1B
 https://cdn.dzen.ru/vod/converted-video/vod-content/80/78/77/20/57/00/90/02/68/bc794050-ac6b-4f02-bf0a-48afd2d90c26/kaltura/desc_59429200c60257520befa8a863cef534/vTIOyJ2-sfyQ/vw=1920,vh=804,fps=24.00,vbrt=831326,abrt=129382,vcodec=avc1.640028,acodec=mp4a.40.2,label=720p/index-f7-v1-a1.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.sortiraparis.com/images/80/94880/1019292-percy-jackson-et-les-olympiens-la-serie-disney-devoile-une-nouvelle-bande-annonce.jpg" background="blue", PERCY JACKSON 1S 1B  
 
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.pinimg.com/736x/79/82/45/798245f99954cd0920d3cc562f6a6509.jpg" background="blue", İYİ ŞANSLAR CHARLİE 1S 1B
@@ -53,10 +71,10 @@ https://cdn.dzen.ru/vod/converted-video/vod-content/10/20/24/60/57/88/61/19/10/9
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.famousbirthdays.com/group_images/medium/kick-buttowski-show.jpg" background="blue", KİCK BUTTOWSKİ 1S 1B
 https://cdn.dzen.ru/vod/converted-video/vod-content/40/13/63/41/20/50/92/46/40/0/0d337957-3151-4f48-842a-ace53c7d1a86/kaltura/desc_de1165844b3c8385888fd9ed8b1a1501/vPSqafQJeN1E/vw=1280,vh=720,fps=24.00,vbrt=561414,abrt=130928,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
 
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 1B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 1B
 https://vod02.cdn.web.tv/lf/do/lfdoahfiiqo_,240,360,480,.mp4.urlset/playlist-f3-v1-a1.m3u8
 
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 1B 
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 1B 
 https://lh3.googleusercontent.com/X1LeTjYw_gU2ZPU1JPlmEVO1-_v4yxxQRDAZv161QR5MkEnWQezt8hUQGY2mtH70YyQzJFVkuLI4qKLnOotd9q2tDFCJVGOpJ2CLX7yUqTIiqBv84YlhgSUh4dd1Lv9mEjl1N2xigQ=m18
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.pinimg.com/736x/79/82/45/798245f99954cd0920d3cc562f6a6509.jpg" background="blue", İYİ ŞANSLAR CHARLİE 1S 2B
@@ -568,85 +586,85 @@ https://cdn.dzen.ru/vod/converted-video/vod-content/57/57/48/59/10/00/03/86/30/1
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.famousbirthdays.com/group_images/medium/kick-buttowski-show.jpg" background="blue", KİCK BUTTOWSKİ 2S 32B
 https://cdn.dzen.ru/vod/converted-video/vod-content/51/70/93/74/53/33/93/66/86/5/804ca637-c8ba-41e3-8add-76273f964b7d/kaltura/desc_236a70ec4a547c026ba60cd064c2cba1/v7FkwaL7uhQE/vw=1280,vh=720,fps=24.00,vbrt=566624,abrt=130757,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
 
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 2B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 2B
 https://vod02.cdn.web.tv/eo/wa/eowaksj4mgo_,240,360,480,720,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 3B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 3B
 https://vod02.cdn.web.tv/eq/kz/eqkzswdcq8m_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 4B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 4B
 https://vod02.cdn.web.tv/lh/nr/lhnrv4ojlis_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 5B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 5B
 https://vod02.cdn.web.tv/o7/6w/o76wlwfnqxq_,240,360,480,720,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 6B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 6B
 https://vod02.cdn.web.tv/5j/rx/5jrxmfi0uly_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 7B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 7B
 https://vod02.cdn.web.tv/4k/ih/4kihv2wmisc_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 8B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 8B
 https://vod02.cdn.web.tv/wn/mc/wnmcijvhgom_,240,360,480,720,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 9B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 9B
 https://vod02.cdn.web.tv/hl/wv/hlwv43azbms_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 10B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 10B
 https://vod02.cdn.web.tv/r3/dz/r3dzpzt2lyv_,240,360,480,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 11B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 11B
 https://vod02.cdn.web.tv/m2/lo/m2loggpjljs_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 12B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 12B
 https://vod02.cdn.web.tv/ew/cm/ewcmfz6lxsy_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 13B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 13B
 https://vod02.cdn.web.tv/6l/bs/6lbssqql6ki_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 14B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 14B
 https://vod02.cdn.web.tv/lq/r2/lqr2kemhb4s_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 15B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 15B
 https://vod02.cdn.web.tv/qb/lc/qblc1z0g57o_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 16B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 16B
 https://vod02.cdn.web.tv/4o/dg/4odgkjwbe9w_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 17B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 17B
 https://vod02.cdn.web.tv/7g/kg/7gkgkcqwxuq_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 18B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 18B
 https://vod02.cdn.web.tv/4i/3j/4i3jvt1spve_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 19B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 19B
 https://vod02.cdn.web.tv/ci/9q/ci9qxu89fks_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 20B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 1S 20B
 https://vod02.cdn.web.tv/7t/qn/7tqnvqxgd7z_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA + BÖLÜM
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA + BÖLÜM
 https://vod02.cdn.web.tv/p8/jd/p8jdjrxss4c_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 1B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 1B
 https://vod02.cdn.web.tv/bk/4o/bk4oihgeecu_,240,360,480,720,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i.imgyukle.com/2020/03/22/JLJ7pe.png" background="blue", ESRARENGİZ KASABA 2S 2B $
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i.imgyukle.com/2020/03/22/JLJ7pe.png" background="blue", ESRARENGİZ KASABA 2S 2B $
 type="video" channelId="-1" group="ESRARENGİZ KASABA" logo="https://i.imgyukle.com/2020/03/22/JLJ7pe.png" background="blue", ESRARENGİZ KASABA 2S 2B $
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i.imgyukle.com/2020/03/22/JLJ7pe.png", ESRARENGİZ KASABA 2S 3B $
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i.imgyukle.com/2020/03/22/JLJ7pe.png", ESRARENGİZ KASABA 2S 3B $
 type="video" channelId="-1" group="ESRARENGİZ KASABA" logo="https://i.imgyukle.com/2020/03/22/JLJ7pe.png" background="blue", ESRARENGİZ KASABA 2S 3B $
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 4B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 4B
 https://vod02.cdn.web.tv/pf/rz/pfrz3u4gbd2_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg background=", ESRARENGİZ KASABA 2S 5B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg background=", ESRARENGİZ KASABA 2S 5B
 https://vod02.cdn.web.tv/sh/uu/shuupnkh1ls_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i.imgyukle.com/2020/03/22/JLJ7pe.png" background="blue", ESRARENGİZ KASABA 2S 6B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i.imgyukle.com/2020/03/22/JLJ7pe.png" background="blue", ESRARENGİZ KASABA 2S 6B
 type="video" channelId="-1" group="ESRARENGİZ KASABA" logo="https://i.imgyukle.com/2020/03/22/JLJ7pe.png" background="blue", ESRARENGİZ KASABA 2S 6B
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 7B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 7B
 https://vod02.cdn.web.tv/vs/fj/vsfjdhueblm_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 8B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 8B
 https://vod02.cdn.web.tv/qb/4h/qb4hx0s3te2_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 9B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 9B
 https://vod02.cdn.web.tv/xd/8r/xd8rbdu05fu_,240,360,480,720,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 10B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 10B
 https://vod02.cdn.web.tv/bv/p1/bvp1rwneifa_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 11B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 11B
 https://vod02.cdn.web.tv/ys/qy/ysqybbxfq1m_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 12B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 12B
 https://vod02.cdn.web.tv/fo/kl/foklq1xuthv_,240,360,480,720,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 13B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 13B
 https://vod02.cdn.web.tv/uu/9v/uu9vqnadv0u_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 14B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 14B
 https://vod02.cdn.web.tv/eq/q9/eqq9eq33yym_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 15B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 15B
 https://vod02.cdn.web.tv/sb/x0/sbx08iyu9ee_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 16B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 16B
 https://vod02.cdn.web.tv/qq/dj/qqdjmpnonda_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 17B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 17B
 https://vod02.cdn.web.tv/4q/tt/4qttnqcsdv6_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 18B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 18B
 https://vod02.cdn.web.tv/gp/yk/gpykeyskcpm_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 19B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 19B
 https://vod02.cdn.web.tv/qy/tr/qytrn7vcvv2_,240,360,480,720,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 20B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="blue", ESRARENGİZ KASABA 2S 20B
 https://vod02.cdn.web.tv/ok/i1/oki1qbxtiwu_,240,360,480,720,.mp4.urlset/playlist-f3-v1-a1.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/5c45bc294d8f4c279896f47664fc3bead4fedf90ee0ee61a9668c9d0b17a03af.jpg" background="blue", PUNİSHER 1S 1B
@@ -1310,135 +1328,135 @@ https://storage.diziyou.co/episodes/11106_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/042632ba44e82bbd73138049192424046a4b8d59be5875a977c58e02982e9403.jpg" background="blue", HOW İ MET YOUR MOTHER 9S 24B
 https://storage.diziyou.co/episodes/11107_tr/720p.m3u8
 
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 2B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 2B
 https://lh3.googleusercontent.com/RJUjBy5dniTWvHbbFMwS16_16w3boSzJmSAgh1sPZtY8fMPvfRIUln4au450xQ8jqQqvWYXSjlo38kj3cTHSjck1Q7_zvHDvFJ-TIlpiHnqKMPx2_TN6G37ETVibUQFi7ZSOD3Dycg=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 3B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 3B
 https://lh3.googleusercontent.com/4uMM6VRp4oDHn-wujMvxjfYaodzXQTh-aCnqTxwCQBYM0JaM4Qkav96C35O-YNQO_lI_4ftSJkWUZt_yliY5LMlYvrm_1FTPkdoqas__oAUPZKhM1Nds1NMguUJ4VLnU-FyLJ9-uaQ=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 4B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 4B
 https://lh3.googleusercontent.com/4I7IEHQ3zcKkXTc-n2jl_C0XyuqmqwR70EupLXlsOGRrdsG1WMQ8mU7KZbf6kTKJOKaykWlJ4ZA1X2b3fSTiKSw01gS524bRUu8lkLsItnYKyq8KGg4LFesuvtoFT2hr7wpbcdCzRw=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 5B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 5B
 https://lh3.googleusercontent.com/Cbrxo70p5cS8DdfYY0h33qcjKkvm0WCc_K-48e6kWXZCTdgAXA7gTHozBF2ctu-OnzH9svTm8RLj7JaXa_8UdEsQky_CDkLp18UQqmiOdF8PcFcz32LcRsjKKyobyXNLWtfSMT0LOQ=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 6B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 6B
 https://lh3.googleusercontent.com/gvf96dCY8wDx-y-VW7kKh_gnghqtFPEysR7WomkcceFNP4EpZbCmZXTdr_ZBO4KAYQpmnAOQjsSlmoE5ZJh62Nh3Db60Byog1cMcia8JxY4QrHbcNsEgiYNcdLrs39i3MjdK373kqA=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 7B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 7B
 https://lh3.googleusercontent.com/2J-DsZZHNmPPs1NJK-owIPl9aZ9TmW7CX-1DG8OKtWPNZJb74UxjnNRx7A983_m060yi2SgSrpebHetqn-GBQtC5af4JCbW-tvEfHhOw9S7wf1nZq-L34QgP9xFiaewznkvDRikyTA=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 8B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 8B
 https://lh3.googleusercontent.com/lk4Wj_1cXgQF1ncGCkYRBy6TJMOoG_pvKEVecwJy0I6HqJNg_ZbljLra6JpFhYgRf8Gt5_trpjFezLCHgIN6cJJVWyLWuGW8FU-JqLqiJTgHm9vBzl7EmpOlUHWy2t3jSS9jXdSy0Q=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 9B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 9B
 https://lh3.googleusercontent.com/_xpnj6ZTUOOjz1jE9lXMrF61kVUiDL1anl4m-e8v4rBoeniXJY3U7Dcv_6Pf_C_0JL6iGrGzV-HMEPehphMtnXfWblv8EmucbYJMCNSmJQcMMZgva0hs3wAHV2kv9jRAj26RaHE7_g=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 10B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 10B
 https://lh3.googleusercontent.com/g405Kqp2pSgJIP3F4tfnk_q6tO88YjAG2QXL1p5OxLo34kUYYu9Pl9o8ZOV3fZeSNdYFiVQ2sb_ga1YD-QQgQsQgTffkmf70C2hHWzqxIhXj5ivK2gLFVqI6vTGDuKFIIQLVfMEllA=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 11B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 11B
 https://lh3.googleusercontent.com/WUanowpX1AF6dNvwFQ1atGeQO-8qyiCUvdOKVfMpuGLjPvWG5LW_6y0KPZzckTnMYMUgQeDKaEcStpIOD9pyL6K8youeW6EvcGi7Enp3xyimlZf2TuK6bIp-1DiyxoiQrbMYnNJ7ww=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 12B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 12B
 https://lh3.googleusercontent.com/X9Y4MjfxKLsoH_cE8iYUd0BvidtNGmj2xHvRrSxK4nt5xtA0XU8BFoqf6blDfA6GUfCxzOo0sL5JVNHwidE8M8JCtan4373Guu2EGZZdreK7YaITvidZDX-6Av5nd-TSPAr2fQ09SA=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 13B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 13B
 https://lh3.googleusercontent.com/qagCWEorFvi6j8SD2G7EEX7OufkDty4XNbDf-Jcbo2qhBQBorIH8fhwOOMI5lKCvQRYwM0Mls8HDYlvLXQCF7Bz2WGelehj8xEdBLpGD4yO83vISWTVMbKOAkUSVWn3yxlzOpuVsnQ=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 14B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 14B
 https://lh3.googleusercontent.com/5bNp9mApqcl-ttaokkHbvVHGHqpvHyl2XCgUwTC0Ca3IV_70-zhw1TKnxmYaImyBZy35W89H7-GA1SPAKVzeksFP-FjHCj8uWK_n6vORDP2T0-JTJxG_To0w5I_zBxGFAOtIVMpp_Q=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 15B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 15B
 https://lh3.googleusercontent.com/V5vT9uob_5jeZfIuoPTRIvQR19JNCNb-nAPpfX1I7zUBQuKo0N08fyYC9Z3rws3J3Ql9nPs3jL4a9-Zy74Zn28UJ8J9QKlYqQw57xd_K8OY_8t-8htrOr3TKDzkDI1v1mm62JHyrdw=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 16B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 16B
 https://lh3.googleusercontent.com/JrCGl7zNV5sPO14XdLqrR9eHDhXWiUZGsMbJD22nm9Q666ox8NCgEoAFcTQqRaPElF1D2sTGCQNC70mcNRPMI1hRnuqMLF4WcOm4pZQ_VXHShigzzUj2N0bOU9RU7n3Er9-qoqNo6w=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 17B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 17B
 https://lh3.googleusercontent.com/rjUUxZfWSPoh7UfS_Z5QGMqIHAcJPagZ1G6xla1xDVqs88E-N4-7xNXrJ4xu8RqRtcEeLhThR1x_YxSanX9BOlJRzWSUCilGL1j8FSdbkz7rETOaZIriA7HQT4cyIO4aLee80cDRbg=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 18B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 18B
 https://lh3.googleusercontent.com/CddVBE-DjWUrQZv6OV4g0vYG3ck6UHgLDLuQ-XYQKC_gRQTbTvmgqawkDVy2hh6TKjhlE3StldeaeBpwSOW7gPgIzSMVhgHYWLJeQJx2RJ63vD-3aB6dctr7DjyWOeJ4CWU0r3gACg=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 19B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 19B
 https://lh3.googleusercontent.com/Bsf1nAmCtpqERoSq-OfTnuvbSyrQIE-Vzbo7N0Rnf_Y50VmNz9ogWH8oDKWUHz7fz7Dk3rw6zBBWOOIsFiZNSJPhqMpjtRferVt4qBjDg-B138yVem6BmjfU4b2RMM-iS5wn7ycmdA=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 20B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 20B
 https://lh3.googleusercontent.com/wHlAudOUAhsor3D9eEfKcqgZGZRR9t9cB0ET2a0dnXpbDXYV8DHhPbPDn7AyY6l4GskmPUwbwpxp9N2L2U72ZSfvQOCY2YjUWlgtXSgTEQ02iAYNssz2m29cDJ_R3rZLx0WywIRqrw=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 21B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 21B
 https://lh3.googleusercontent.com/GTuTv9qQr1dS9xNANGQBenKxsOhLVbUZgIx6JijLyarkMNNy-gULIrv_puk164KTweEseaAyA0SqNidkC0IZQ3ntIsBTsmx_Ry3jfhbK8Lr35EISkNVveI4S7sAQzQNPyiCzxjwGcw=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 22B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 1S 22B
 https://lh3.googleusercontent.com/ZoUfR4Z1KTxJtPTRJ9QP8bZLmj70LVz09nY3uAeuRM33Rhqn25OyKRe3IAP0j-NTxO26C6rghHJBTDnrpVQGSqtoTzCRUbk7s3qCNOnM95HR9BdTxQGnz5lNpuhPYUVqW58YqIPOiA=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 1B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 1B
 https://lh3.googleusercontent.com/-xbyOqNRhHva0-69Vp_acvsGNSAI1laFoCJGvxpHL9v9tXBYAL9Hc_I4I_3PRPGbghXu-dJTu5hGNCM7At_-z2sJOYE8KgQpI1wp7vmWkNJ7TAJ9cutP5BXrwn1ni0NcHwb0slrOYQ=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 2B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 2B
 https://lh3.googleusercontent.com/v4kK8BLyAWMLjCeulXeza2DbMvrKXJ-Xy7HE6m2nDabNXhCx9dYwhlRr-0tw9uLtOWFVlfqvrvRuJBSFgtnGW4VQqeTFdh8-DIHGd62RSR9JaH4VxXUAokCCuksC6Vx-NZtZgYDFNA=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 3B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 3B
 https://lh3.googleusercontent.com/RXy6YL6nqlL8Hb6w6KnDMzmJnvarRaBZzvPqNv98GX9UU2pwXXwhxRP7lgD6gy-Yb4uZQUopyVHte8GqYd2n9x4uhzuPdpPRYPCKPAbuK8Z-q3a0LehOzmdoswmtGiKvPVwD9s-6Ug=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 4B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 4B
 https://lh3.googleusercontent.com/ZfAkzaMi6KGeVJrRu0LdsYe_BR7wNnHjlmBbFT_iOLKdx4tEjWNy9AwmLls6CiUzmxcY5JO_7c_uo5SED8izAo1ABbc003XHtDbGHHxoY1cQVBh_sdYTbsDu8PErLZfnWjgZ6dgobw=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 5B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 5B
 https://lh3.googleusercontent.com/QXMXdrh61BQ90ibaJIsvCvz-znUKvwJX30Zsm4e_NHpelRP1OG69_bB5rFITSSmqO97zb3PGQaYeoygOA7IWUaSd_AX_h6WR1huA_0eK5mllAoxTZJasQIQgqfiMnQ2w32hZ07PF-Q=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 6B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 6B
 https://lh3.googleusercontent.com/BneLFG4Dw0TwGHjmFlP2BeJ_jW2SdfHlufrM6hx1wtcF9uZO8OfRDc0oddbCmWeaXvKfZaQxeG-INVz3WwDP4rlxyGQUU1jf0WTnO1-MKauozRx6A-Nud8DhZv9QgH5X3S0XsssLxA=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 7B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 7B
 https://lh3.googleusercontent.com/HCunS_Ur2k4mInWvUj-aVoOpcdakawDGVmWPm9QRKnXMfUPIe-atgZyJUWgDwi_aKCBBEH0zrDE8x9KFbQZAdvoISeQeyolB6vgE02bij2N3tihpBfGQUEqbQcAnRE_mIrzGF_Xqfw=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 8B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 8B
 https://lh3.googleusercontent.com/QQEPQZ_UEM_56gnlQP04kLRdL78EP0078uZrdK232XTlj2pmonkhVYHk2HP93TyDXRaQ43x2VF7I9ikFKF7_MjlJ_fS3BzGfSirWyjFG1K3T3cR6kPW7i8SxJk9jSMDTD59yI8xssA=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 9B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 9B
 https://lh3.googleusercontent.com/mPeU_5aJsGCR6Alxc-6viDPquYFLN1BwGqfxOrEG-w2jD8FbwYtyju1CihoYcPHOFwLZ3hUgKTyaS_ZK88FygXaSyJOyXcYMIkluyj10DVCtm0_jVhfRKHxGO8dpADn5iJ_u9spatg=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 10B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 10B
 https://lh3.googleusercontent.com/nFD-T9RLpMCeI1e9kAIe8WKx9BF8TURhTZrTyUCLtzemhTUd_H9NIP_j0meeKHuDdpVmkelk2_f_6c9eRFTR-BVbk-sFEigAQaUNTbmYUYnqsQBCD6e8BNVq3ogacJbib8CO-P3mBQ=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 11B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 11B
 https://lh3.googleusercontent.com/ZNXqduau_-qVlttSy54yCpiSfHfTl_zKeDMRMAfKznW9terOJ4juhKD3yMcgqzMIjvCq6vHxtqQjiwLTwgPsu82wmhMo40he0nGbf6f3oLZtJIb27LoXR6twDgfm8vaJk4GWDirk6g=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 12B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 12B
 https://lh3.googleusercontent.com/03qpZX2Omc1RAK_W56a8sQBKzSd4uFU8nPpZemzG3BfQiC7x5nLJUA2-bNUWGIcqQi5dxP7py4KWpF8vMH5g3lICZ7m0dMmOU9q9daA12br0jK4-cWyIkTJBKpQXCG7IPqfa1YX_Nw=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 13B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 13B
 https://lh3.googleusercontent.com/5Jus-QBfSWSuQLVoCv96rpap919ImpolsdfX-pbz0oP-zyp2K0bJxTV7eMMmVdVqareIB3cUo-pinWD8zlOxYdJpujkeifxx7NwK5mUOjTOy0i0gUqZkWP8ttzb4mv_p9VE0CSVS9Q=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 14B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 14B
 https://lh3.googleusercontent.com/PbwoaCDeXFrGUm3sgvmKJiDfggJp3hbEtLcqllAiiJY0ECOvLxa0Uu1qryhjxvcLSK3Yvl8gvPjxNyvZjmuI0B4qh7onvkfR7wazCrPfig09dHzcegG_O6dsZ-Jg6A9DqZ4Is-OHwg=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 15B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 15B
 https://lh3.googleusercontent.com/-NWtsKLCOdlB1BLQuCOBOwbjA6DYN0qvZPlCFf16ZJgHB7-g9ZgbZJwpBd2z-njq_Ihc6TjxuY8iZuTU9xUCcoTzqZobTqEdwJ_HXqJ-Z0PQmv1HSDXPtC0IPAzhbdIQzBjqpKZYfg=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 16B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 16B
 https://lh3.googleusercontent.com/sv77CfNfrAMFgw1AGkcXakXqsvTXWp4607R3Uuh9JpSFtvTGlI91AcF7-Lrr_O498Vm6XbHv8ta4QmqzoQKXxcqjKBXyJfysreZ9XxpeDSE2W9LCWMrZ16u7d51oicj0U21kWfek3Q=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 17B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 17B
 https://lh3.googleusercontent.com/XZQz-5Y69yxUsr-6EtEXmeU7mgcr-j6oBdbFe4HnRSIatMsCcfMGI2oSkx3focQGmZh0wPVnKE86_9QjXvthNrSn8DLuyLIyEGmz1s-1fzD8nKAswV1b14Koxi0lBMM-6x85UDC-kA=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 18B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 18B
 https://lh3.googleusercontent.com/3jX3uwO0l8VDRpPYcPMMoC-ACKh3hOKOxnhcj0vuEIaY7rgOQOxlWxXUWYSVGm43AtZh-dIQj3w1H9cATO_W9lqeF8hQrqXTqNutgdGaORE2hEoaaeD5xuaTdCalGe7tOmQEXh0Bkg=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 19B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 19B
 https://lh3.googleusercontent.com/nKjoG-IFvjAPflU3lTFkGgRUgIH7cE3OxjGhGzNhz4RXUawdzY3pjjrMKk8gHT6P57PzS-ueXNEdE_JSVQmRntNT5EOA18MKmzXnG82kHptIqhxIEo-mIcEFOvcOJiNzI0E6IPxddA=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 20B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 20B
 https://lh3.googleusercontent.com/dqR-3td9hB3fwCWNa1o-nt3jZ4nm5wGZBJCrt2tE8hlOgjXk6hpH5ToZojis5ELHJ2N2UdSPHA8HudEYMMDjEewAS-uJqABc-nsg53reIFrmysEXVbRuju0nBAuMV_gz7Tbk8WFOcg=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 21B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 21B
 https://lh3.googleusercontent.com/akEu-MVwy9l7z2AseYWU3bQmsYTqGkombzgUxpCTGtCWm9T1yCzj7bKBSQyJG9NWjqNIBJ6QPOeQMlY2cAPFP6QhZRekosjoAdaxqsByRR_AiZJUZT40j0xOtWTh6PhRBQo224uBbA=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 22B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 2S 22B
 https://lh3.googleusercontent.com/p0ahlacZbphv_PlHMmLX-lih8c855Y0-TMdX4xjfdG0Z1SxDZxQoiQTsZpVLL5OEpumPUodnnwzsNaUh7PLGKDQxeNdeAlFi_XEc-ZYinlCBotjxJmIZ9LaYVSYci-XqbGFXm0X0aw=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 1B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 1B
 https://lh3.googleusercontent.com/9RnQvDwL_CGr57xgRhxKw7HJ5jjHBZpNNkUOe_JTrLXGwA4VAcb3_ZqO986WmM8nCRQDQO9yUAT94diGojomNL5kJV6v_nofRAU2L9S1m_QPEtuSHES_n6n7QIodm7dvImru3h0zhQ=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 2B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 2B
 https://lh3.googleusercontent.com/MEnyoSVbM5ZQxCQvbaoTw35fhho4qYND9T3UwOsyGiSSZojiX2CoS2XLZ2fDc_12QifnXiTRSZLxgvgsCiNWJBnWajRxMAiOEK2iOVcpeksLmj5NoTE3HpLwAcaoiINOHRhL8O8qxQ=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 3B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 3B
 https://lh3.googleusercontent.com/AA0YMbciOScpMsBQd7-grMlzR4NBLxaR8Hu7K2drsU009VsM8MZBZpTr08Na2Zym48jmpQcoeQGiIzEG8Zp-YJQrmtjdoa-j0B9pEAfiwPoMw8eJw3i_6KLLqO6MpohllMBowqg2bg=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 4B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 4B
 https://lh3.googleusercontent.com/r1e5Bdve4b738Ed5crtAj-NeiazZWrVlgGfQ6stSYtZlDg1HlYCkOocchBu0M6L4otkaLMu3JKr_c3BBUq1dTUXLBjesC6bE0CoK9PfSbRxOAAx3mzhzaRj0hRTO2t7XFeGNaMIv4g=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 5B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 5B
 https://lh3.googleusercontent.com/Ij_HUc_5B3kPYhTCIeJ_p17AxEUvPzBYudwj4wHNmOgXG_wTXZZq36eBVyGtd5WD8ukXnSUNzjPND992sTibats-cSnS7ys7M9bYI81zIv8wCoEco5yF1XqCMXR4BgLHQoYtIaSPxQ=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 6B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 6B
 https://lh3.googleusercontent.com/CQ_3esdh8D9A5WQcAOcSKJe57bT2XFZwDlEVM1dn43VqUEk6eaYtW18RP1UuqbAk4Qs0xoh8we0ogY3-2VhtMb6mlWyEhs2RBLiQbkn9gGeaYu3cRmZ7dUI9DymgZe3TJ0eQH0vKIg=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 7B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 7B
 https://lh3.googleusercontent.com/GvqMcxOXQASXz3aqOavmRgJYveYjQzZNM20jBDPvedqs__OTYTKMpr1gXoMVFyobbsgR5mI5h2bdy0fejad5hCGrnIpOXF3ZCwSnmLk_Qnuq9HHo_aimNyUKDdoKSKHSDvkuUX2Pbw=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 8B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 8B
 https://lh3.googleusercontent.com/3KZgfWKB_Tkh-5SRldV1mVjBpxrjMgvVi3yCK_DUDz2grjEjgoQTVT77LPUegyNGASNCjmoYHGL7z3IszBbNfp03gRTFXn0CDhLiXWP5WG0Z-Yx5hj9KvK9BJeH7O2b0DgHsNmbVRg=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 9B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 9B
 https://lh3.googleusercontent.com/qF1qf5XtCk7Y0txcJaimW59RQY0bjsbb3H7dIlZKbCHKmh2LPk2DmLSpCdHvQsjnMTMLP6EDYPF9J8lcanRLGE-9gXt_TMW7PyMqOEOno8uNhEMfemGZUHwW4Jy7XWXw3hZPZzMtjQ=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 10B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 10B
 https://lh3.googleusercontent.com/4CBHi-GfX7M_inI_7P8V-ZMIWgDfXP5zhOH5Vevsvbemm52YxO5gnYZdFd8_QkAp0gJCQdPCLVes6JViJXCd2GxgZKfWPGihsMmytVhAIX7klVct96QdGuc9hY8R0S-Tb-n3EQy__Q=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 11B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 11B
 https://lh3.googleusercontent.com/YNQJktD1BgvoQQ2QffaISeUazfvcBUGYljKGYoSgqiCk07VFwL4ISmcIzV5Ib6lHVmtKSbk7vtyyAiGbQ0x2hiFj-qWAY_1mbOkta94PN5MNaQlTdOKJ0wRG57S25COU4Bsq7a8AkA=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 12B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 12B
 https://lh3.googleusercontent.com/nVZ_6nVVVbqK7Sm3UpOlxJnw5zzkQ1ungwT-zXHRd9MgjWxOQu6IffN5HJqb2TwWOCjnHc0zmvHJ5O-uPxGu87fQ67ZlGqpd84hBeQ0t9GzOXaqSR1pejXU3Sw-S0IHVOnfWrQd3aA=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 13B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 13B
 https://lh3.googleusercontent.com/zPqs8EIiO6YIbTd9Z-DC0dZptXvEJrvreXzSBLQ2pfetNihu9T2U7E3ru8yeh6yuH7xVhzWS3wWAUwCP6t9eofqOECpoGao6Lv6RBIv2n66Hh7NByhZt_xz6jK-o7K-6iwOluZcLag=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 14B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 14B
 https://lh3.googleusercontent.com/r-R4_aHwEZxkn6V93d6_byIeedJoBewrXytXUX8ipSqaNcbumQzpRxTLZh-nkufOl1SFkXsjm8C0HBor2EkS5YmihgazAxnnRmkVuLpXjaoVXD7vfMEZr2ozOCEKuuAd5ylQrj8xXQ=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 15B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 15B
 https://lh3.googleusercontent.com/qAZR1AraIrXbtHYdMmcmM_ClLvjG3A-fUl3Fy7wKyC0G1queguVqyeT05OQdh4k1MRHYSP68JLPLGhjvQGqzjFJ6U83ntdeb0Q1-u9ZcChb5d0WbH8YtwnovJtJ7f1Ma9bz7Nw9lVA=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 16B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 16B
 https://lh3.googleusercontent.com/jDYDXe-KiB9h4PIFG5LMDIY07VzjOTbV32LrF5ZEM_Yq0MLCDt-YWT_KiTYEaaR0Dt8rRuwDcdi5kMJ_WHMt23I3BzzI3MJfxCxWPrJbvKA4Kl3kGKz3sp8MKP6wptjpNfTXAI_mzQ=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 17B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 17B
 https://lh3.googleusercontent.com/QehTr_yK_xz_WwaiT5O_b7HIdCBGvi09XTocDyhCb7umDRFSAYBiBct3Zmbkfl2NgPn7ffKP5ep73dVGr_oY7iOPzevBVfGc-JtN8W6A-_o3kU99Y5xCPmZ8VC0DWTpHpNcOIv0CyQ=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 18B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 18B
 https://lh3.googleusercontent.com/dWSpk5BNWTf6BEJrTSaQMyQXilaFq5a4B2xmBXrSsPE2UhDZDFVOrTfFTwIP5gJOuDiiaOiS1DA908GBarRQRBpuAb5lR2laJn656z8nOlkfkcdmLFk7H1YompiaP4yRruFP-m5THg=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 19B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 19B
 https://lh3.googleusercontent.com/mmSknhl92aL8euJmotc4fmaipXtOJEBZ-WogKlKTso0MefMa4CWBZuhfkC_pVdcFNTrx0IkoD3dxgWV9unB7llIXxjbw7C6sVbJHzgTrPITeT2-zDqbovoaA45dmbkqwqd71dk0P1A=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 20B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 20B
 https://lh3.googleusercontent.com/_6TTnYChm1CT_UnejBrX8iu7hhKTE8TGzRRWsrbMuAYBeb-gihu5ChlYdxIJzdprg2B_8tneYOX75HFp495UARL4b_BXP1oWXdb8JsiRiGEJY4_bqwpcrJeaDwxQGqxOO9H63bZEJA=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 21B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 21B
 https://lh3.googleusercontent.com/rlgClehXYk1cx0Fva7UY9VLYQLZdvvakGmwXLu4gkSRrqggA5S99dmOJiqpQQInYepukMcri3iJtA7z-0GaPwAfzxXh-1vVYNl5_BqxR6bLoZiwCxyYO8JgpiAfmZmUvmIqyHBqJxQ=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 22B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="blue", KLON SAVAŞLARI 3S 22B
 https://cdn.dzen.ru/vod/converted-video/vod-content/75/31/30/54/59/93/48/97/96/4/32451ea5-79aa-4fb5-bc34-9ca399ff1db0/kaltura/desc_0e358e63f2142671cdc2be6d300fc871/vN7A1LSUV9Ws/vw=1280,vh=544,fps=24.00,vbrt=720732,abrt=129506,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="blue", THE SİMPSONS 34S 1B
@@ -1699,5 +1717,210 @@ https://cdn.dzen.ru/vod/converted-video/vod-content/49/65/51/95/85/01/45/08/59/5
 
 
 
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 1S 2B
+https://storage.diziyou.co/episodes/77302_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 1S 3B
+https://storage.diziyou.co/episodes/77303_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 1S 4B
+https://storage.diziyou.co/episodes/77304_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 1S 5B
+https://storage.diziyou.co/episodes/77305_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 1S 6B
+https://storage.diziyou.co/episodes/77306_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 1S 7B
+https://storage.diziyou.co/episodes/77307_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 1S 8B
+https://storage.diziyou.co/episodes/77308_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 1S 9B
+https://storage.diziyou.co/episodes/77309_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 1S 10B
+https://storage.diziyou.co/episodes/77310_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 1S 11B
+https://storage.diziyou.co/episodes/77311_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 1S 12B
+https://storage.diziyou.co/episodes/77312_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 1S 13B
+https://storage.diziyou.co/episodes/77313_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 2S 1B  
+https://storage.diziyou.co/episodes/77314_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 2S 2B  
+https://storage.diziyou.co/episodes/77315_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 2S 3B  
+https://storage.diziyou.co/episodes/77316_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 2S 4B  
+https://storage.diziyou.co/episodes/77317_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 2S 5B  
+https://storage.diziyou.co/episodes/77318_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 2S 6B  
+https://storage.diziyou.co/episodes/77319_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 2S 7B  
+https://storage.diziyou.co/episodes/77320_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 2S 8B  
+https://storage.diziyou.co/episodes/77321_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 2S 9B  
+https://storage.diziyou.co/episodes/77322_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 2S 10B  
+https://storage.diziyou.co/episodes/77323_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 2S 11B  
+https://storage.diziyou.co/episodes/77324_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 2S 12B  
+https://storage.diziyou.co/episodes/77325_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 2S 13B  
+https://storage.diziyou.co/episodes/77326_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 3S 1B  
+https://storage.diziyou.co/episodes/77327_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 3S 2B  
+https://storage.diziyou.co/episodes/77328_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 3S 3B  
+https://storage.diziyou.co/episodes/77329_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 3S 4B  
+https://storage.diziyou.co/episodes/77330_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 3S 5B  
+https://storage.diziyou.co/episodes/77331_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 3S 6B  
+https://storage.diziyou.co/episodes/77332_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 3S 7B  
+https://storage.diziyou.co/episodes/77333_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 3S 8B  
+https://storage.diziyou.co/episodes/77334_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 3S 9B  
+https://storage.diziyou.co/episodes/77335_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 3S 10B  
+https://storage.diziyou.co/episodes/77336_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 3S 11B  
+https://storage.diziyou.co/episodes/77337_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 3S 12B  
+https://storage.diziyou.co/episodes/77338_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://frpnet.net/wp-content/uploads/2024/02/DaredevilBornAgain.jpg" background="blue", DAREDEVİL 3S 13B  
+https://storage.diziyou.co/episodes/77339_tr/720p.m3u8  
 
 
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.vanityfair.com/photos/6114a5d50b170c6defc5cb3f/4:3/w_1232,h_924,c_limit/What%20If%20lead%20image.jpeg" background="blue", WHAT İF 1S 2B  
+https://storage.diziyou.co/episodes/115402_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.vanityfair.com/photos/6114a5d50b170c6defc5cb3f/4:3/w_1232,h_924,c_limit/What%20If%20lead%20image.jpeg" background="blue", WHAT İF 1S 3B  
+https://storage.diziyou.co/episodes/115403_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.vanityfair.com/photos/6114a5d50b170c6defc5cb3f/4:3/w_1232,h_924,c_limit/What%20If%20lead%20image.jpeg" background="blue", WHAT İF 1S 4B  
+https://storage.diziyou.co/episodes/115404_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.vanityfair.com/photos/6114a5d50b170c6defc5cb3f/4:3/w_1232,h_924,c_limit/What%20If%20lead%20image.jpeg" background="blue", WHAT İF 1S 5B  
+https://storage.diziyou.co/episodes/115405_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.vanityfair.com/photos/6114a5d50b170c6defc5cb3f/4:3/w_1232,h_924,c_limit/What%20If%20lead%20image.jpeg" background="blue", WHAT İF 1S 6B  
+https://storage.diziyou.co/episodes/115406_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.vanityfair.com/photos/6114a5d50b170c6defc5cb3f/4:3/w_1232,h_924,c_limit/What%20If%20lead%20image.jpeg" background="blue", WHAT İF 1S 7B  
+https://storage.diziyou.co/episodes/115407_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.vanityfair.com/photos/6114a5d50b170c6defc5cb3f/4:3/w_1232,h_924,c_limit/What%20If%20lead%20image.jpeg" background="blue", WHAT İF 1S 8B  
+https://storage.diziyou.co/episodes/115408_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.vanityfair.com/photos/6114a5d50b170c6defc5cb3f/4:3/w_1232,h_924,c_limit/What%20If%20lead%20image.jpeg" background="blue", WHAT İF 1S 9B  
+https://storage.diziyou.co/episodes/115409_tr/720p.m3u8  
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.vanityfair.com/photos/6114a5d50b170c6defc5cb3f/4:3/w_1232,h_924,c_limit/What%20If%20lead%20image.jpeg" background="blue", WHAT İF 2S 1B  
+https://storage.diziyou.co/episodes/115410_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.vanityfair.com/photos/6114a5d50b170c6defc5cb3f/4:3/w_1232,h_924,c_limit/What%20If%20lead%20image.jpeg" background="blue", WHAT İF 2S 2B  
+https://storage.diziyou.co/episodes/115411_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.vanityfair.com/photos/6114a5d50b170c6defc5cb3f/4:3/w_1232,h_924,c_limit/What%20If%20lead%20image.jpeg" background="blue", WHAT İF 2S 3B  
+https://storage.diziyou.co/episodes/115412_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.vanityfair.com/photos/6114a5d50b170c6defc5cb3f/4:3/w_1232,h_924,c_limit/What%20If%20lead%20image.jpeg" background="blue", WHAT İF 2S 4B  
+https://storage.diziyou.co/episodes/115413_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.vanityfair.com/photos/6114a5d50b170c6defc5cb3f/4:3/w_1232,h_924,c_limit/What%20If%20lead%20image.jpeg" background="blue", WHAT İF 2S 5B  
+https://storage.diziyou.co/episodes/115414_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.vanityfair.com/photos/6114a5d50b170c6defc5cb3f/4:3/w_1232,h_924,c_limit/What%20If%20lead%20image.jpeg" background="blue", WHAT İF 2S 6B  
+https://storage.diziyou.co/episodes/115415_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.vanityfair.com/photos/6114a5d50b170c6defc5cb3f/4:3/w_1232,h_924,c_limit/What%20If%20lead%20image.jpeg" background="blue", WHAT İF 2S 7B  
+https://storage.diziyou.co/episodes/115416_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.vanityfair.com/photos/6114a5d50b170c6defc5cb3f/4:3/w_1232,h_924,c_limit/What%20If%20lead%20image.jpeg" background="blue", WHAT İF 2S 8B  
+https://storage.diziyou.co/episodes/115417_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.vanityfair.com/photos/6114a5d50b170c6defc5cb3f/4:3/w_1232,h_924,c_limit/What%20If%20lead%20image.jpeg" background="blue", WHAT İF 2S 9B  
+https://storage.diziyou.co/episodes/115418_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.vanityfair.com/photos/6114a5d50b170c6defc5cb3f/4:3/w_1232,h_924,c_limit/What%20If%20lead%20image.jpeg" background="blue", WHAT İF 3S 1B  
+https://storage.diziyou.co/episodes/115419_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.vanityfair.com/photos/6114a5d50b170c6defc5cb3f/4:3/w_1232,h_924,c_limit/What%20If%20lead%20image.jpeg" background="blue", WHAT İF 3S 2B  
+https://storage.diziyou.co/episodes/115420_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.vanityfair.com/photos/6114a5d50b170c6defc5cb3f/4:3/w_1232,h_924,c_limit/What%20If%20lead%20image.jpeg" background="blue", WHAT İF 3S 3B  
+https://storage.diziyou.co/episodes/115421_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.vanityfair.com/photos/6114a5d50b170c6defc5cb3f/4:3/w_1232,h_924,c_limit/What%20If%20lead%20image.jpeg" background="blue", WHAT İF 3S 4B  
+https://storage.diziyou.co/episodes/115422_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.vanityfair.com/photos/6114a5d50b170c6defc5cb3f/4:3/w_1232,h_924,c_limit/What%20If%20lead%20image.jpeg" background="blue", WHAT İF 3S 5B  
+https://storage.diziyou.co/episodes/115423_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.vanityfair.com/photos/6114a5d50b170c6defc5cb3f/4:3/w_1232,h_924,c_limit/What%20If%20lead%20image.jpeg" background="blue", WHAT İF 3S 6B  
+https://storage.diziyou.co/episodes/115424_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.vanityfair.com/photos/6114a5d50b170c6defc5cb3f/4:3/w_1232,h_924,c_limit/What%20If%20lead%20image.jpeg" background="blue", WHAT İF 3S 7B  
+https://storage.diziyou.co/episodes/115425_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.vanityfair.com/photos/6114a5d50b170c6defc5cb3f/4:3/w_1232,h_924,c_limit/What%20If%20lead%20image.jpeg" background="blue", WHAT İF 3S 8B  
+https://storage.diziyou.co/episodes/115426_tr/720p.m3u8  
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://storage.oyungezer.com.tr/ogz-public/public/content/2024/03/04/content_65e5b730c330a_80540.jpg" background="blue", SHOUGUN 1S 2B  
+https://storage.diziyou.co/episodes/88002_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://storage.oyungezer.com.tr/ogz-public/public/content/2024/03/04/content_65e5b730c330a_80540.jpg" background="blue", SHOUGUN 1S 3B  
+https://storage.diziyou.co/episodes/88003_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://storage.oyungezer.com.tr/ogz-public/public/content/2024/03/04/content_65e5b730c330a_80540.jpg" background="blue", SHOUGUN 1S 4B  
+https://storage.diziyou.co/episodes/88004_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://storage.oyungezer.com.tr/ogz-public/public/content/2024/03/04/content_65e5b730c330a_80540.jpg" background="blue", SHOUGUN 1S 5B  
+https://storage.diziyou.co/episodes/88005_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://storage.oyungezer.com.tr/ogz-public/public/content/2024/03/04/content_65e5b730c330a_80540.jpg" background="blue", SHOUGUN 1S 6B  
+https://storage.diziyou.co/episodes/88006_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://storage.oyungezer.com.tr/ogz-public/public/content/2024/03/04/content_65e5b730c330a_80540.jpg" background="blue", SHOUGUN 1S 7B  
+https://storage.diziyou.co/episodes/88007_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://storage.oyungezer.com.tr/ogz-public/public/content/2024/03/04/content_65e5b730c330a_80540.jpg" background="blue", SHOUGUN 1S 8B  
+https://storage.diziyou.co/episodes/88008_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://storage.oyungezer.com.tr/ogz-public/public/content/2024/03/04/content_65e5b730c330a_80540.jpg" background="blue", SHOUGUN 1S 9B  
+https://storage.diziyou.co/episodes/88009_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://storage.oyungezer.com.tr/ogz-public/public/content/2024/03/04/content_65e5b730c330a_80540.jpg" background="blue", SHOUGUN 1S 10B  
+https://storage.diziyou.co/episodes/88010_tr/720p.m3u8  
+
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://gaming-hive.fr/wp-content/uploads/2024/02/image_2024-02-24_135311998-e1708779315374.png" background="blue", THE ACOLYTE 1S 2B  
+https://storage.diziyou.co/episodes/94702_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://gaming-hive.fr/wp-content/uploads/2024/02/image_2024-02-24_135311998-e1708779315374.png" background="blue", THE ACOLYTE 1S 3B  
+https://storage.diziyou.co/episodes/94703_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://gaming-hive.fr/wp-content/uploads/2024/02/image_2024-02-24_135311998-e1708779315374.png" background="blue", THE ACOLYTE 1S 4B  
+https://storage.diziyou.co/episodes/94704_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://gaming-hive.fr/wp-content/uploads/2024/02/image_2024-02-24_135311998-e1708779315374.png" background="blue", THE ACOLYTE 1S 5B  
+https://storage.diziyou.co/episodes/94705_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://gaming-hive.fr/wp-content/uploads/2024/02/image_2024-02-24_135311998-e1708779315374.png" background="blue", THE ACOLYTE 1S 6B  
+https://storage.diziyou.co/episodes/94706_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://gaming-hive.fr/wp-content/uploads/2024/02/image_2024-02-24_135311998-e1708779315374.png" background="blue", THE ACOLYTE 1S 7B  
+https://storage.diziyou.co/episodes/94707_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://gaming-hive.fr/wp-content/uploads/2024/02/image_2024-02-24_135311998-e1708779315374.png" background="blue", THE ACOLYTE 1S 8B  
+https://storage.diziyou.co/episodes/94708_tr/720p.m3u8  
+
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/1/thequestexclusiveofficialtrailer36190303thequestblogroll-1648848157587.jpg" background="blue", THE QUEST 1S 2B  
+https://storage.diziyou.co/episodes/19352_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/1/thequestexclusiveofficialtrailer36190303thequestblogroll-1648848157587.jpg" background="blue", THE QUEST 1S 3B  
+https://storage.diziyou.co/episodes/19353_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/1/thequestexclusiveofficialtrailer36190303thequestblogroll-1648848157587.jpg" background="blue", THE QUEST 1S 4B  
+https://storage.diziyou.co/episodes/19354_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/1/thequestexclusiveofficialtrailer36190303thequestblogroll-1648848157587.jpg" background="blue", THE QUEST 1S 5B  
+https://storage.diziyou.co/episodes/19355_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/1/thequestexclusiveofficialtrailer36190303thequestblogroll-1648848157587.jpg" background="blue", THE QUEST 1S 6B  
+https://storage.diziyou.co/episodes/19356_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/1/thequestexclusiveofficialtrailer36190303thequestblogroll-1648848157587.jpg" background="blue", THE QUEST 1S 7B  
+https://storage.diziyou.co/episodes/19357_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/1/thequestexclusiveofficialtrailer36190303thequestblogroll-1648848157587.jpg" background="blue", THE QUEST 1S 8B  
+https://storage.diziyou.co/episodes/19358_tr/720p.m3u8  
+
+https://storage.diziyou.co/episodes/84401_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.sortiraparis.com/images/80/94880/1019292-percy-jackson-et-les-olympiens-la-serie-disney-devoile-une-nouvelle-bande-annonce.jpg" background="blue", PERCY JACKSON 1S 2B  
+https://storage.diziyou.co/episodes/84402_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.sortiraparis.com/images/80/94880/1019292-percy-jackson-et-les-olympiens-la-serie-disney-devoile-une-nouvelle-bande-annonce.jpg" background="blue", PERCY JACKSON 1S 3B  
+https://storage.diziyou.co/episodes/84403_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.sortiraparis.com/images/80/94880/1019292-percy-jackson-et-les-olympiens-la-serie-disney-devoile-une-nouvelle-bande-annonce.jpg" background="blue", PERCY JACKSON 1S 4B  
+https://storage.diziyou.co/episodes/84404_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.sortiraparis.com/images/80/94880/1019292-percy-jackson-et-les-olympiens-la-serie-disney-devoile-une-nouvelle-bande-annonce.jpg" background="blue", PERCY JACKSON 1S 5B  
+https://storage.diziyou.co/episodes/84405_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.sortiraparis.com/images/80/94880/1019292-percy-jackson-et-les-olympiens-la-serie-disney-devoile-une-nouvelle-bande-annonce.jpg" background="blue", PERCY JACKSON 1S 6B  
+https://storage.diziyou.co/episodes/84406_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.sortiraparis.com/images/80/94880/1019292-percy-jackson-et-les-olympiens-la-serie-disney-devoile-une-nouvelle-bande-annonce.jpg" background="blue", PERCY JACKSON 1S 7B  
+https://storage.diziyou.co/episodes/84407_tr/720p.m3u8  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.sortiraparis.com/images/80/94880/1019292-percy-jackson-et-les-olympiens-la-serie-disney-devoile-une-nouvelle-bande-annonce.jpg" background="blue", PERCY JACKSON 1S 8B  
+https://storage.diziyou.co/episodes/84408_tr/720p.m3u8  
