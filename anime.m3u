@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0 type="video" channelId="-1" group-title="AniTatsu Anime Haberleri" logo="https://i.imgur.com/yBMd272.jpeg" background="purple", ANİTATSU'YA HOŞGELDİN
 https://vod02.cdn.web.tv/fg/ro/fgroo29vuxk_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8?st=JFm4kW8Uz8-HvI1LExNWqw&e=1744131614
+#EXTINF:0 type="video" channelId="-1" group-title="AniTatsu Anime Haberleri" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2021/11/20211119-ovicio-one-piece-cosplay-luffy.jpg" background="purple", ONE PİECE YENİ BÖLÜMLER YAKINDA
+https://vod02.cdn.web.tv/fg/ro/fgroo29vuxk_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8?st=JFm4kW8Uz8-HvI1LExNWqw&e=1744131614
 #EXTINF:0 type="video" channelId="-1" group-title="Chainsaw  Man" logo="https://thenerddaily.com/wp-content/uploads/2021/01/Chainsaw-Man.jpg" background="purple", CHAİNSAW MAN 1S 1B
 https://pixeldrain.com/api/file/azB64j6P
 #EXTINF:0 type="video" channelId="-1" group-title="Chainsaw  Man" logo="https://thenerddaily.com/wp-content/uploads/2021/01/Chainsaw-Man.jpg" background="purple", CHAİNSAW MAN 1S 2B
@@ -157,7 +159,7 @@ https://pixeldrain.com/api/file/mHyR1c3N
 #EXTINF:0 type="video" channelId="-1" group-title="Solo Leveling" logo="https://images-na.ssl-images-amazon.com/images/I/81OYRZEQG7L.jpg" background="purple", SOLO LEVELİNG 2S 13B
 https://pixeldrain.com/api/file/y3PNqeGr
 
-#EXTINF:0 type="video" channelId="-1" group-title="One Piece" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2021/11/20211119-ovicio-one-piece-cosplay-luffy.jpg" background="purple", (YENİ) ONE PİECE  1S 1B 
+#EXTINF:0 type="video" channelId="-1" group-title="One Piece" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2021/11/20211119-ovicio-one-piece-cosplay-luffy.jpg" background="purple", ONE PİECE  1S 1B 
 https://pixeldrain.com/api/file/pHMNbPJ3
 #EXTINF:0 type="video" channelId="-1" group-title="One Piece" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2021/11/20211119-ovicio-one-piece-cosplay-luffy.jpg" background="purple", ONE PİECE 1S 2B 
 https://pixeldrain.com/api/file/PUNiHQq4
@@ -585,6 +587,83 @@ https://pixeldrain.com/api/file/6WWSCupA
 #EXTINF:0 type="video" channelId="-1" group-title="One Punch Man" logo="https://gizmodo.com/app/uploads/2025/03/One-Punch-Man-Saitama-J.C.-Staff-Anime.jpg" background="purple", ONE PUNCH MAN 2S 12B
 https://pixeldrain.com/api/file/pTEgrLZC
 
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 1S 1B
+https://pixeldrain.com/api/file/oomqtgNS
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 1S 2B
+https://pixeldrain.com/api/file/VYzfGM9p
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 1S 3B
+https://pixeldrain.com/api/file/3F9qbQs3
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 1S 4B
+https://pixeldrain.com/api/file/3YPGXnEB
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 1S 5B
+https://pixeldrain.com/api/file/3ASTvdLX
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 1S 6B
+https://pixeldrain.com/api/file/yQphgxzt
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 1S 7B
+https://pixeldrain.com/api/file/i1hkWnyX
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 1S 8B
+https://pixeldrain.com/api/file/iBmPUe19
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 1S 9B
+https://pixeldrain.com/api/file/qh8BpNxb
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 1S 10B
+https://pixeldrain.com/api/file/w8qhZQC8
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 1S 11B
+https://pixeldrain.com/api/file/8AVmjm7f
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 1S 12B
+https://pixeldrain.com/api/file/HVFNXnJz
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 1S 13B
+https://pixeldrain.com/api/file/gL79uwVB
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 1S 14B
+https://pixeldrain.com/api/file/HDCJL9jb
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 1S 15B
+https://pixeldrain.com/api/file/pM43yHuP
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 1S 16B
+https://pixeldrain.com/api/file/f3p5nfZt
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 1S 17B
+https://pixeldrain.com/api/file/hEQxTc4r
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 1S 18B
+https://pixeldrain.com/api/file/jP6aeBr8
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 1S 19B
+https://pixeldrain.com/api/file/gDZUkT42
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 1S 20B
+https://pixeldrain.com/api/file/HFE5Yxjx
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 1S 21B
+https://pixeldrain.com/api/file/oNmV5j3m
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 1S 22B
+https://pixeldrain.com/api/file/3fVRVoXj
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 1S 23B
+https://pixeldrain.com/api/file/GYJ7iNbF
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 1S 24B
+https://pixeldrain.com/api/file/jjwJAbGd
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 1S 25B
+https://pixeldrain.com/api/file/ZuuqnHZ5
+
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 2S 1B
+https://pixeldrain.com/api/file/P7ri56Vb
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 2S 2B
+https://pixeldrain.com/api/file/qdK5aZ1w
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 2S 3B
+https://pixeldrain.com/api/file/pijQCjFV
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 2S 4B
+https://pixeldrain.com/api/file/iekGgjdF
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 2S 5B
+https://pixeldrain.com/api/file/BaeWtg1x
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 2S 6B
+https://pixeldrain.com/api/file/i9RiLNt1
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 2S 7B
+https://pixeldrain.com/api/file/nohjs7F9
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 2S 8B
+https://pixeldrain.com/api/file/R6q7Q94H
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 2S 9B
+https://pixeldrain.com/api/file/CSHHnY62
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 2S 10B
+https://pixeldrain.com/api/file/jRZAQgUm
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 2S 11B
+https://pixeldrain.com/api/file/T9m24GwY
+#EXTINF:0 type="video" channelId="-1" group-title="Spy X Family" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/09/20220929-ovicio-anya-spy-family.jpg" background="purple", SPY X FAMİLY 2S 12B
+https://pixeldrain.com/api/file/mvpQfg2H
+
+
 #EXTINF:0 type="video" channelId="-1" group-title="Bungo Stray Dogs" logo="https://cdn-images.dzcdn.net/images/cover/92b2da0c9a70d79b68dc1da6543f64c8/0x1900-000000-80-0-0.jpg" background="purple", BUNGO STRAY DOGS 1S 1B
 https://pixeldrain.com/api/file/e4o68uHc
 #EXTINF:0 type="video" channelId="-1" group-title="Bungo Stray Dogs" logo="https://cdn-images.dzcdn.net/images/cover/92b2da0c9a70d79b68dc1da6543f64c8/0x1900-000000-80-0-0.jpg" background="purple", BUNGO STRAY DOGS 1S 2B
@@ -833,5 +912,11 @@ https://pixeldrain.com/api/file/ZAwUpQLV
 #EXTINF:0 type="video" channelId="-1" group-title="Altair" logo="https://avatarfiles.alphacoders.com/185/thumb-1920-185770.jpg" background="purple", ALTAİR 1S 24B
 https://pixeldrain.com/api/file/RpYHdXBC
 
+#EXTINF:0 type="video" channelId="-1" group-title="Beyblade (TR Dublaj)" logo="https://static.wikia.nocookie.net/beyblade/images/7/75/TysonSeason1.jpg" background="purple", BEYBLADE (TR DUBLAJ) 1S 1B
+https://pixeldrain.com/api/file/AWmjkadX
 
+#EXTINF:0 type="video" channelId="-1" group-title="Beyblade (TR Dublaj)" logo="https://static.wikia.nocookie.net/beyblade/images/7/75/TysonSeason1.jpg" background="purple", BEYBLADE (TR DUBLAJ) 1S 2B
+https://pixeldrain.com/api/file/cKamqZD2
 
+#EXTINF:0 type="video" channelId="-1" group-title="Bakugan (TR Dublaj)" logo="https://static.wikia.nocookie.net/beyblade/images/7/75/TysonSeason1.jpg" background="purple", BAKUGAN (TR DUBLAJ) 1S 1B
+https://pixeldrain.com/api/file/2jWb2B3z
