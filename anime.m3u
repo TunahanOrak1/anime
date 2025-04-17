@@ -3,17 +3,17 @@
 #EXTINF:0 type="video" channelId="-1" group-title="Crunchyroll" logo="https://cdn.bynogame.com/games/1723584932100.webp" background="purple", CRUNCHYROLL'A HOŞGELDİN
 https://vod02.cdn.web.tv/dy/qy/dyqye6b6m6o_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8?st=NBVCEcHb3hfjDyquCeriNg&e=1744318698
 
-#EXTINF:0 type="video" channelId="-1" group-title="Crunchyroll" logo="https://cdn.bynogame.com/games/1723584932100.webp" background="purple", (TR)=TURKCE DUBLAJ İCERİK
+#EXTINF:0 type="video" channelId="-1" group-title="Crunchyroll" logo="https://cdn.pixabay.com/photo/2020/10/21/16/41/sign-5673711_1280.png" background="purple", (TR)=TURKCE DUBLAJ İCERİK
 https://vod02.cdn.web.tv/dy/qy/dyqye6b6m6o_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8?st=NBVCEcHb3hfjDyquCeriNg&e=1744318698
 
 
-#EXTINF:0 type="video" channelId="-1" group-title="Yakında Gelecekler" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2021/11/20211119-ovicio-one-piece-cosplay-luffy.jpg" background="purple", YENİ BÖLÜMLER YAKINDA
+#EXTINF:0 type="video" channelId="-1" group-title="One Piece" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2021/11/20211119-ovicio-one-piece-cosplay-luffy.jpg" background="purple", YENİ BÖLÜMLER YAKINDA
 https://vod02.cdn.web.tv/dy/qy/dyqye6b6m6o_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8?st=NBVCEcHb3hfjDyquCeriNg&e=1744318698
 
-#EXTINF:0 type="video" channelId="-1" group-title="Yakında Gelecekler" logo="https://www.shoptherocket.com/cdn/shop/collections/CkSe-cM2_400x400_5dd22266-15c7-4391-9155-3f26c0745a96.jpg" background="purple", YENİ BÖLÜMLER YAKINDA
+#EXTINF:0 type="video" channelId="-1" group-title="My Hero Academia" logo="https://www.shoptherocket.com/cdn/shop/collections/CkSe-cM2_400x400_5dd22266-15c7-4391-9155-3f26c0745a96.jpg" background="purple", YENİ BÖLÜMLER YAKINDA
 https://vod02.cdn.web.tv/dy/qy/dyqye6b6m6o_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8?st=NBVCEcHb3hfjDyquCeriNg&e=1744318698
 
-#EXTINF:0 type="video" channelId="-1" group-title="(TR) Mobile Suit Gundam" logo="https://www.animenewsnetwork.com/hotlink/thumbnails/crop1200x630g92/cms/news.8/218576/gd6vrgiauaaondm.jpeg" background="purple", YENİ BÖLÜMLER YAKINDA
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Mobile Suit Gundam" logo="https://cdn.antaranews.com/cache/1200x800/2025/03/07/Prime-Video-Gundam-GQuuuuuuX-m-Stills-1.jpg" background="purple", YENİ BÖLÜMLER YAKINDA
 https://vod02.cdn.web.tv/dy/qy/dyqye6b6m6o_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8?st=NBVCEcHb3hfjDyquCeriNg&e=1744318698
 
 #EXTINF:0 type="video" channelId="-1" group-title="Chainsaw  Man" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAİNSAW MAN 1S 1B
@@ -40,11 +40,6 @@ https://pixeldrain.com/api/file/jEaQgKDH
 https://pixeldrain.com/api/file/DMh1DrS9
 #EXTINF:0 type="video" channelId="-1" group-title="Chainsaw  Man" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAİNSAW MAN 1S 12B
 https://pixeldrain.com/api/file/Y3K2iaWj
-
-#EXTINF:0 type="video" channelId="-1" group-title="(TR) Mobile Suit Gundam" logo="https://www.animenewsnetwork.com/hotlink/thumbnails/crop1200x630g92/cms/news.8/218576/gd6vrgiauaaondm.jpeg" background="purple", (TR) MOBİLE SUİT GUNDAM 1S 1B
-https://pixeldrain.com/api/file/5LP65HKc
-#EXTINF:0 type="video" channelId="-1" group-title="(TR) Mobile Suit Gundam" logo="https://www.animenewsnetwork.com/hotlink/thumbnails/crop1200x630g92/cms/news.8/218576/gd6vrgiauaaondm.jpeg" background="purple", (TR) MOBİLE SUİT GUNDAM 1S 2B
-https://pixeldrain.com/api/file/fywSr48E
 
 
 #EXTINF:0 type="video" channelId="-1" group-title="Blue Lock" logo="https://m.media-amazon.com/images/M/MV5BOGRhNDQ3NTgtMmU3YS00OWI0LTgyMmUtNGQwODk0MDg2YTYzXkEyXkFqcGc@._V1_.jpg" background="purple", BLUE LOCK 1S 1B
@@ -176,6 +171,12 @@ https://pixeldrain.com/api/file/nhihyXNJ
 https://pixeldrain.com/api/file/mHyR1c3N
 #EXTINF:0 type="video" channelId="-1" group-title="Solo Leveling" logo="https://images-na.ssl-images-amazon.com/images/I/81OYRZEQG7L.jpg" background="purple", SOLO LEVELİNG 2S 13B
 https://pixeldrain.com/api/file/y3PNqeGr
+
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Mobile Suit Gundam" logo="https://cdn.antaranews.com/cache/1200x800/2025/03/07/Prime-Video-Gundam-GQuuuuuuX-m-Stills-1.jpg" background="purple", (TR) MOBİLE SUİT GUNDAM 1S 1B
+https://pixeldrain.com/api/file/5LP65HKc
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Mobile Suit Gundam" logo="https://cdn.antaranews.com/cache/1200x800/2025/03/07/Prime-Video-Gundam-GQuuuuuuX-m-Stills-1.jpg" background="purple", (TR) MOBİLE SUİT GUNDAM 1S 2B
+https://pixeldrain.com/api/file/fywSr48E
+
 
 #EXTINF:0 type="video" channelId="-1" group-title="Frieren" logo="https://i.pinimg.com/736x/9b/f4/3d/9bf43d7c73651f8d8650e720c7fddb78.jpg" background="purple", FRİEREN 1S 1B
 https://pixeldrain.com/api/file/tLQGcjJZ
