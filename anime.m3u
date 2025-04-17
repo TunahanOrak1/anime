@@ -3,9 +3,17 @@
 #EXTINF:0 type="video" channelId="-1" group-title="Crunchyroll" logo="https://cdn.bynogame.com/games/1723584932100.webp" background="purple", CRUNCHYROLL'A HOŞGELDİN
 https://vod02.cdn.web.tv/dy/qy/dyqye6b6m6o_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8?st=NBVCEcHb3hfjDyquCeriNg&e=1744318698
 
+#EXTINF:0 type="video" channelId="-1" group-title="Crunchyroll" logo="https://cdn.bynogame.com/games/1723584932100.webp" background="purple", (TR)=TURKCE DUBLAJ İCERİK
+https://vod02.cdn.web.tv/dy/qy/dyqye6b6m6o_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8?st=NBVCEcHb3hfjDyquCeriNg&e=1744318698
+
+
 #EXTINF:0 type="video" channelId="-1" group-title="Yakında Gelecekler" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2021/11/20211119-ovicio-one-piece-cosplay-luffy.jpg" background="purple", YENİ BÖLÜMLER YAKINDA
 https://vod02.cdn.web.tv/dy/qy/dyqye6b6m6o_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8?st=NBVCEcHb3hfjDyquCeriNg&e=1744318698
+
 #EXTINF:0 type="video" channelId="-1" group-title="Yakında Gelecekler" logo="https://www.shoptherocket.com/cdn/shop/collections/CkSe-cM2_400x400_5dd22266-15c7-4391-9155-3f26c0745a96.jpg" background="purple", YENİ BÖLÜMLER YAKINDA
+https://vod02.cdn.web.tv/dy/qy/dyqye6b6m6o_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8?st=NBVCEcHb3hfjDyquCeriNg&e=1744318698
+
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Mobile Suit Gundam" logo="https://www.animenewsnetwork.com/hotlink/thumbnails/crop1200x630g92/cms/news.8/218576/gd6vrgiauaaondm.jpeg" background="purple", YENİ BÖLÜMLER YAKINDA
 https://vod02.cdn.web.tv/dy/qy/dyqye6b6m6o_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8?st=NBVCEcHb3hfjDyquCeriNg&e=1744318698
 
 #EXTINF:0 type="video" channelId="-1" group-title="Chainsaw  Man" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAİNSAW MAN 1S 1B
@@ -32,6 +40,11 @@ https://pixeldrain.com/api/file/jEaQgKDH
 https://pixeldrain.com/api/file/DMh1DrS9
 #EXTINF:0 type="video" channelId="-1" group-title="Chainsaw  Man" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAİNSAW MAN 1S 12B
 https://pixeldrain.com/api/file/Y3K2iaWj
+
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Mobile Suit Gundam" logo="https://www.animenewsnetwork.com/hotlink/thumbnails/crop1200x630g92/cms/news.8/218576/gd6vrgiauaaondm.jpeg" background="purple", (TR) MOBİLE SUİT GUNDAM 1S 1B
+https://pixeldrain.com/api/file/5LP65HKc
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Mobile Suit Gundam" logo="https://www.animenewsnetwork.com/hotlink/thumbnails/crop1200x630g92/cms/news.8/218576/gd6vrgiauaaondm.jpeg" background="purple", (TR) MOBİLE SUİT GUNDAM 1S 2B
+https://pixeldrain.com/api/file/fywSr48E
 
 
 #EXTINF:0 type="video" channelId="-1" group-title="Blue Lock" logo="https://m.media-amazon.com/images/M/MV5BOGRhNDQ3NTgtMmU3YS00OWI0LTgyMmUtNGQwODk0MDg2YTYzXkEyXkFqcGc@._V1_.jpg" background="purple", BLUE LOCK 1S 1B
@@ -1268,10 +1281,110 @@ https://pixeldrain.com/api/file/H1qVaneL
 https://pixeldrain.com/api/file/J38RAb24
 
 
-
-
-
-
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 1B
+https://pixeldrain.com/api/file/2jWb2B3z
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 2B
+https://pixeldrain.com/api/file/Bj97P64m
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 3B
+https://pixeldrain.com/api/file/4GpjQFr7
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 4B
+https://pixeldrain.com/api/file/Ye3LTYkV
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 5B
+https://pixeldrain.com/api/file/3AiDJvm8
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 6B
+https://pixeldrain.com/api/file/G7iYviJp
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 7B
+https://pixeldrain.com/api/file/xdfft3Fe
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 8B
+https://pixeldrain.com/api/file/iHjE8mze
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 9B
+https://pixeldrain.com/api/file/b3VA9zBv
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 10B
+https://pixeldrain.com/api/file/DBTv7PPn
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 11B
+https://pixeldrain.com/api/file/REZVucAr
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 12B
+https://pixeldrain.com/api/file/rwenBnMZ
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 13B
+https://pixeldrain.com/api/file/v2ws4TGd
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 14B
+https://pixeldrain.com/api/file/C6qgEPdr
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 15B
+https://pixeldrain.com/api/file/hYX8xvqU
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 16B
+https://pixeldrain.com/api/file/n47GyLxe
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 17B
+https://pixeldrain.com/api/file/BpJDp9R7
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 18B
+https://pixeldrain.com/api/file/f4BXhtEn
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 19B
+https://pixeldrain.com/api/file/L2cQ6jTH
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 20B
+https://pixeldrain.com/api/file/4vASZTKj
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 21B
+https://pixeldrain.com/api/file/ULP45425
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 22B
+https://pixeldrain.com/api/file/pm7koEuU
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 23B
+https://pixeldrain.com/api/file/E8ZmDXBN
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 24B
+https://pixeldrain.com/api/file/trkWXAbB
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 25B
+https://pixeldrain.com/api/file/H6N9Y7dU
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 26B
+https://pixeldrain.com/api/file/b7kEpZwQ
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 27B
+https://pixeldrain.com/api/file/sjYLwRNA
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 28B
+https://pixeldrain.com/api/file/T6TwkxSp
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 29B
+https://pixeldrain.com/api/file/hiLmuWCA
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 30B
+https://pixeldrain.com/api/file/w1esATJJ
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 31B
+https://pixeldrain.com/api/file/y8ssxHeu
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 32B
+https://pixeldrain.com/api/file/fy1Y6842
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 33B
+https://pixeldrain.com/api/file/H4caHiKJ
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 34B
+https://pixeldrain.com/api/file/Zi9dKdsU
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 35B
+https://pixeldrain.com/api/file/tqtMvRvL
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 36B
+https://pixeldrain.com/api/file/QoyUvzNw
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 37B
+https://pixeldrain.com/api/file/mYisQNNZ
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 38B
+https://pixeldrain.com/api/file/bbEuxmU5
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 39B
+https://pixeldrain.com/api/file/VxiKRyE6
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 40B
+https://pixeldrain.com/api/file/xMdeP53E
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 41B
+https://pixeldrain.com/api/file/iNEN3Y4q
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 42B
+https://pixeldrain.com/api/file/fBaPs3rZ
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 43B
+https://pixeldrain.com/api/file/2GvA45vK
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 44B
+https://pixeldrain.com/api/file/Pb7u5YWH
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 45B
+https://pixeldrain.com/api/file/MQfXuG3z
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 46B
+https://pixeldrain.com/api/file/vvhkeyDd
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 47B
+https://pixeldrain.com/api/file/xKxCUsF9
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 48B
+https://pixeldrain.com/api/file/hJqV9Fdc
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 49B
+https://pixeldrain.com/api/file/6f5XTVT6
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 50B
+https://pixeldrain.com/api/file/DFLCbsoq
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 51B
+https://pixeldrain.com/api/file/rRemdLzj
+#EXTINF:0 type="video" channelId="-1" group-title="(TR) Bakugan" logo="https://comicvine.gamespot.com/a/uploads/square_medium/11112/111121983/3848021-9351493692-Dan_w.jpg" background="purple", (TR) BAKUGAN 1S 52B (VİP)
+https://pixeldrain.com/api/file/sdgsdgopdskop
 
 
 
