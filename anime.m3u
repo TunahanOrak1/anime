@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:0 type="video" channelId="-1" group-title="Crunchyroll" logo="https://cdn.bynogame.com/games/1723584932100.webp" background="purple", CRUNCHYROLL'A HOŞGELDİN
-https://vod02.cdn.web.tv/dy/qy/dyqye6b6m6o_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8?st=NBVCEcHb3hfjDyquCeriNg&e=1744318698
+#EXTINF:0 type="video" channelId="-1" group-title="Yuna Anime" logo="https://i.imgur.com/vVuYtho.png" background="purple", YUNA'YA HOŞGELDİN
+https://vod02.cdn.web.tv/ba/0z/ba0zelsya0w_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8?st=DcT2teqNs-RBY8FKpOCVSA&e=1745029179
+
+#EXTINF:0 type="video" channelId="-1" group-title="Yuna Anime" logo="https://i.imgur.com/wfunugr.jpeg" background="purple", ANİME TANITIMLARI
+https://vod02.cdn.web.tv/et/wl/etwlevzqhgw_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8?st=fBmWXl-NjhL23TclDaH3tQ&e=1745029272
 
 #EXTINF:0 type="video" channelId="-1" group-title="Crunchyroll" logo="https://cdn.pixabay.com/photo/2020/10/21/16/41/sign-5673711_1280.png" background="purple", (TR)=TURKCE DUBLAJ İCERİK
 https://vod02.cdn.web.tv/dy/qy/dyqye6b6m6o_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8?st=NBVCEcHb3hfjDyquCeriNg&e=1744318698
